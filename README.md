@@ -86,7 +86,7 @@ Searx is an open-source, self-hostable, metasearch engine, aggregating the resul
 Get Google search results, but without any ads, javascript, AMP links, cookies, or IP address tracking
 
 ### ● &nbsp; Antivirus
-Windows defender should be more than enough for virus protection, combined with [Malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. But this Guide removes Windows Defender to prevent data collection. Even Malwarebytes can collect them. You don't need any Anti-Virus if you browse the internet safely. Install browser add-ons(Given in this guide) that protect you from malicious links.
+Windows defender should be more than enough for virus protection, combined with [Malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. But this Guide removes Windows Defender to prevent data collection. Even Malwarebytes can collect data. You don't need any Anti-Virus if you browse the internet safely. Install browser add-ons(Given in this guide) that protect you from malicious links.
 
 * [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests  
 * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines  
