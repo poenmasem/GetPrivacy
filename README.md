@@ -1,6 +1,7 @@
 # Setup Windows Privacy Focused
 <!--Related:
 * [Windows Best Privacy Practices](https://www.reddit.com/r/privacytoolsIO/comments/fwgvsb/windows_10_best_privacy_practices/?utm_source=amp&utm_medium=&utm_content=post_body)-->
+A Complete Guide to setup Windows by focusing on Privacy and Security.
 
 ## 1. Download Windows ISO
 
