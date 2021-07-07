@@ -1,5 +1,6 @@
 # Setup Windows Privacy Focused
-
+<!--Related:
+* [Windows Best Privacy Practices](https://www.reddit.com/r/privacytoolsIO/comments/fwgvsb/windows_10_best_privacy_practices/?utm_source=amp&utm_medium=&utm_content=post_body)-->
 * A Complete Guide to setup Windows with focus on Privacy and Security.  
 * Most of the tools listed here are FOSS.
 
@@ -108,7 +109,7 @@ Calligra Suite is an office and graphic art suite by KDE. It is available for de
   - [Okular](https://okular.kde.org/)  
   Okular can view and annotate documents of various formats, including PDF, Postscript, Comic Book, and various image formats. It supports native PDF annotations.
 
-  - Use any browsers (preferably chromium based) like Ungoogled Chromium, etc. to view PDF(as Firefox is less secure than chromium based browsers)
+  - Use any browsers (preferably chromium based) like Ungoogled Chromium, etc. to view PDF(as Firefox is less secure than chromium based browsers).
 
   - [MuPDF](https://mupdf.com/)  
   MuPDF is a lightweight PDF, XPS, and E-book viewer. MuPDF consists of a software library, command line tools, and viewers for various platforms.
@@ -119,11 +120,11 @@ Calligra Suite is an office and graphic art suite by KDE. It is available for de
   - [Xpdf](https://www.xpdfreader.com/)  
   Xpdf is a free PDF viewer and toolkit, including a text extractor, image converter, HTML converter, and more
 
-  - Lector  
-  A simple PDF Reader built using Electron and PDF.js
+  - [Lector](https://www.electronjs.org/apps/lector)  
+  A simple PDF Reader built using Electron and PDF.js.
 
   - [NightPDF](https://github.com/libreloya/NightPDF)  
-  Dark Mode PDF Reader built using Electron and PDF.js
+  Dark Mode PDF Reader built using Electron and PDF.js.
 
 ## Browser
 * [Firefox](https://firefox.com/)  
@@ -274,7 +275,7 @@ GParted is a free partition editor for graphically managing your disk partitions
 - [Winaero Tweaker](https://winaero.com/)  
 Winaero is a website hosting freeware tweaking tools for Microsoft Windows.
 
-- System Information
+- System Information:
   - [HWiNFO](https://www.hwinfo.com/)  
 HWiNFO is a free system information tool for Windows that gives a quick overview, as well as a detailed look, at hardware components.
 
@@ -316,7 +317,7 @@ Bulk Crap Uninstaller (BCUninstaller, BCU) is a free, open source program manage
 
 - ### [Windows Best Privacy Practices](https://www.reddit.com/r/privacytoolsIO/comments/fwgvsb/windows_10_best_privacy_practices/?utm_source=amp&utm_medium=&utm_content=post_body)
 
-- # Gaming Tweaks
+# Gaming Tweaks
 
 - ### [Game / Performance / Networking tweaks, tips, hacks, apps: REAL PERFORMANCE GUIDE](https://n1kobg.blogspot.com/)
 
