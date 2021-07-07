@@ -322,7 +322,7 @@ Bulk Crap Uninstaller (BCUninstaller, BCU) is a free, open source program manage
 
 - ### [Milkbrain's Basic Windows Optimization Guide](https://docs.google.com/document/d/112uc7XnMA4QFTKF6i4iFdXfar6b5YlLwrdF9N-Z5TcI/edit)
 
-- ### [[Milkbrain's Advanced FPS Boost Guide](https://docs.google.com/document/d/1XsGfW1EjjW7rutzZ8tpX7t3FvLc7WF4rjtfC-77Louw/edit)
+- ### [Milkbrain's Advanced FPS Boost Guide](https://docs.google.com/document/d/1XsGfW1EjjW7rutzZ8tpX7t3FvLc7WF4rjtfC-77Louw/edit)
 
 - ### [Danske’s Guide](https://docs.google.com/document/d/18uPEXJC5LSto8x9X_GteSI58sfQLCfamDG1HNHJWrQU/edit)
 
