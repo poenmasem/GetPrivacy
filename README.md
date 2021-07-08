@@ -138,12 +138,24 @@ Simple tool to configure Windows Filtering Platform (WFP) which can configure ne
 * [Postmaster](https://safing.io/)  
 Portmaster is a free and open-source application that puts you back in charge over all your computer's network connections.
 
+## Image
+- [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
+
+- [IrfanView](https://www.irfanview.com/) - IrfanView is an image viewer, editor, organiser and converter program for Microsoft Windows.
+
+- [ImageMagick](https://www.imagemagick.org/) - ImageMagick is a free and open-source cross-platform software suite for displaying, creating, converting, modifying, and editing raster images.
+  - [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick(fork of ImageMagick) is a free open source, modern and powerful software suite for processing images.
+
 ## Media Player
 - [VLC](https://www.videolan.org/) - A free and open-source, portable, cross-platform media player software and streaming media server developed by the VideoLAN project.
 
 - [MPC-HC](https://github.com/clsid2/mpc-hc/) - Media Player Classic - Home Cinema (MPC-HC) is a free and open-source video and audio player for Windows.
 
 - [Flyleaf](https://github.com/SuRGeoNix/Flyleaf) - Video Player .NET Library for WPF/WinForms (based on FFmpeg/SharpDX).
+
+- [mpv.net](https://github.com/stax76/mpv.net) - mpv.net is a modern media player for Windows that works just like mpv.
+
+- [Audacious](https://audacious-media-player.org/) - Audacious is a free and open-source audio player software with a focus on low resource use, high audio quality, and support for a wide range of audio formats.
 
 ## Video
 - [VLC](https://www.videolan.org/) - A collection of tools for the Matroska media container format by Moritz Bunkus including mkvmerge.
@@ -174,6 +186,8 @@ Related:
   - [Audacity fork by Cookie Engineer](https://github.com/cookiengineer/audacity) - Audacity Fork without any Sentry Telemetry or Crash Reporting.
 
   - [tenacity](https://github.com/tenacityteam/tenacity) - FLOSS Audacity Fork - No telemetry, crash reports and other shenanigans like that!
+
+  - [audacium](https://github.com/SartoxOnlyGNU/audacium) - Audacity fork without Telemetry and with new features.
 
 * [Ardour](https://ardour.org/) - Ardour is a hard disk recorder and digital audio workstation application that runs on Linux, macOS, FreeBSD and Microsoft Windows.
 
@@ -218,6 +232,17 @@ Related:
 
 - [GParted](https://gparted.org/) - GParted is a free partition editor for graphically managing your disk partitions. GParted can be used on x86 and x86-64 based computers running Linux, Windows, or Mac OS X by booting from media containing GParted Live.
 
+## Uninstaller
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Bulk Crap Uninstaller (BCUninstaller, BCU) is a free, open source program manager. It excels at removing large amounts of applications with minimal user input.
+
+## Torrent Client
+- [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_torrent_clients)
+
+## Maintenance
+- [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source disk space cleaner, privacy manager, and computer system optimizer.
+
+- [Cleanmgr+](https://www.builtbybel.com/cleanmgrplus) - Cleanmgr+ is a modern take of Microsoft Disk Cleanup and comes with all the features that the original Cleanmgr.exe offers plus several extra ones.
+
 ## Other Tools
 - [Winaero Tweaker](https://winaero.com/) - Winaero is a website hosting freeware tweaking tools for Microsoft Windows.
 
@@ -230,14 +255,10 @@ Related:
 
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU-Z is a freeware that gathers information on some of the main devices of your system.
 
-## Uninstaller
-- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Bulk Crap Uninstaller (BCUninstaller, BCU) is a free, open source program manager. It excels at removing large amounts of applications with minimal user input.
-
-## Torrent Client
-- [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_torrent_clients)
-
-## 6. For more Softwares
+## 6. For other Softwares
 - [PrivacyTools Guide](https://www.privacytools.io/) - PrivacyTools (also known as privacytools.io) provides knowledge and tools to protect your privacy against global mass surveillance' and is a well-known website in the Education & Reference category.
+
+- [Privacy Tools List](https://privacytoolslist.com/) - Top privacy tools, apps and services.
 
 - [FOSS_Stuff](https://github.com/samedamci/FOSS_Stuff/blob/master/list.md) - FOSS and privacy software
 
@@ -256,7 +277,7 @@ Related:
 
 - ### [Windows Best Privacy Practices](https://www.reddit.com/r/privacytoolsIO/comments/fwgvsb/windows_10_best_privacy_practices/?utm_source=amp&utm_medium=&utm_content=post_body)
 
-# Gaming Tweaks
+# 🎮 Gaming Tweaks
 
 - ### [Game / Performance / Networking tweaks, tips, hacks, apps: REAL PERFORMANCE GUIDE](https://n1kobg.blogspot.com/)
 
@@ -269,6 +290,5 @@ Related:
 - ### [Calypto's Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
 
 - ### [BDO Ultimate Performance Guide](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit)
-
 
 <!--Etc.. NEEDED-->
