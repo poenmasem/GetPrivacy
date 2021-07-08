@@ -273,9 +273,9 @@ Related:
 - [Piracy Megathread Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
 
 ## Other
-- ### [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread)
+- ### [Snopyta](https://snopyta.org/)
 
-- ### [Windows Best Privacy Practices](https://www.reddit.com/r/privacytoolsIO/comments/fwgvsb/windows_10_best_privacy_practices/?utm_source=amp&utm_medium=&utm_content=post_body)
+- ### [Test Your Privacy](https://web.archive.org/web/20210112175807if_/https://www.reddit.com/r/privacytoolsIO/comments/bia6sx/test_your_privacy/)
 
 # 🎮 Gaming Tweaks
 
