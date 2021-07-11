@@ -29,8 +29,7 @@
 ### Other
 - [Other](#other-1)
 - [Gaming Tweaks](#-gaming-tweaks)
-
-- Contact
+- [Contact](#contact)
 
 ## 1. Download Windows ISO
 
