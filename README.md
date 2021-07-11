@@ -1,8 +1,31 @@
 # Setup Windows Privacy Focused
-<!--Related:
-* [Windows Best Privacy Practices](https://www.reddit.com/r/privacytoolsIO/comments/fwgvsb/windows_10_best_privacy_practices/?utm_source=amp&utm_medium=&utm_content=post_body)-->
 * A Complete Guide to setup Windows with focus on Privacy and Security.  
-* Most of the tools listed here are FOSS.
+* Most of the tools listed here are [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+
+## Contents
+- [Download Windows ISO](#1-download-windows-iso)
+- [Removing Unnecessary Components](#2-removing-unnecessary-components)
+- [Burning to USB](#3-burning-to-usb)
+- Activation
+- Installing Drivers
+- Software
+  - Office Suite
+  - Browser 
+  - Antivirus
+  - Firewall
+  - Image View/Edit/etc..
+  - Media Player
+  - Video
+  - Audio
+  - File Converter
+  - System Imaging/Cloning/Recovery/Troubleshoot/Partitioning
+  - Uninstaller
+  - Torrent Client
+  - Other Tools
+  - For other Softwares
+### Other
+- Other
+- Gaming Tweaks
 
 ## 1. Download Windows ISO
 
@@ -21,7 +44,7 @@ Related:
 
 - Tweaking:
   - [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script)  
-  A powerful PowerShell module for fine-tuning and tweaking Windows 10
+  A powerful PowerShell module for fine-tuning and tweaking Windows 10.
 
   - [Privatezilla](https://github.com/builtbybel/privatezilla)  
   Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
@@ -31,28 +54,24 @@ Related:
 
 ## 2. Removing Unnecessary Components
 * Windows 7  
-  * [Integrate7 Script](https://www.wincert.net/forum/topic/14001-integrate7-script-%E2%80%93-automatically-download-and-slipstream-all-updates-up-to-052021/)  
-It gets Windows 7 ISO image (any language, any architecture), download all post-SP1 updates directly from Microsoft site and create new bootable Windows 7 ISO (with all updates integrated). Removes all bloatware (Telemetry, Diagnostics, Windows Defender).
+  * [Integrate7 Script](https://www.wincert.net/forum/topic/14001-integrate7-script-%E2%80%93-automatically-download-and-slipstream-all-updates-up-to-052021/) - It gets Windows 7 ISO image (any language, any architecture), download all post-SP1 updates directly from Microsoft site and create new bootable Windows 7 ISO (with all updates integrated). Removes all bloatware (Telemetry, Diagnostics, Windows Defender).
 
 * Windows 8  
-  * [W8.1-Tweak-Pack](https://www.ntlite.com/community/index.php?threads/clangers-download-page.1272/post-10855)  
-They include deleting registry entries and tasks folders, they are not a component removal.
+  * [W8.1-Tweak-Pack](https://www.ntlite.com/community/index.php?threads/clangers-download-page.1272/post-10855) - They include deleting registry entries and tasks folders, they are not a component removal.
 
 * Windows 10  
-  * [AME](https://ameliorated.info/)  
-  Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
-
-Realted: (AME)
-* [Getting Started](https://wiki.ameliorated.info/doku.php?id=getting_started)
-* [The Case Against Anti-Virus Software](https://wiki.ameliorated.info/doku.php?id=antivirus)
-* [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)
+  * [Windows 10 AME](https://ameliorated.info/) - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
+    * [Getting Started](https://wiki.ameliorated.info/doku.php?id=getting_started)
+    * [The Case Against Anti-Virus Software](https://wiki.ameliorated.info/doku.php?id=antivirus)
+    * [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)
+    * (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
 
 ## 3. Burning to USB
 * [Rufus](https://rufus.ie/en/) - Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc. Rufus is fast. For instance it's about twice as fast as UNetbootin, Universal USB Installer.
 
 * [Ventoy](https://www.ventoy.net/en/index.html) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 
-## 3. Activation
+## 4. Activation
 * Windows 7: [Requires Login]
   * [Daz Loader (Original)](https://forums.mydigitallife.net/threads/windows-loader-download.58464/) - Permanent Activation
 
@@ -67,14 +86,14 @@ Realted: (AME)
 * Windows 10  
 [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) (Microsoft Activation Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 
-## 4. Installing Drivers
+## 5. Installing Drivers
 * [Snappy Driver Installer](https://www.snappy-driver-installer.org/) - Snappy Driver Installer Origin(SDIO). This method is the easiest method of installing drivers.
 But, you should search for Touchpad and Graphics Drivers in manufacturer website to prevent errors.
 
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVCleanstall lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
 * Other:
-  * [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not for Windows 7 (Since, the Integrate7 Script integrates it into the ISO))
+  * [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7 (Since, the Integrate7 Script integrates it into the ISO))
 
   * [Visual C++ Redistributable Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
   
@@ -83,7 +102,7 @@ But, you should search for Touchpad and Graphics Drivers in manufacturer website
 Related:  
 [AME - Getting Started](https://wiki.ameliorated.info/doku.php?id=getting_started)
 
-## 5. Software
+## 6. Software
 
 ## Office Suite
 * [Apache OpenOffice](https://www.openoffice.org/) - OpenOffice, sometimes abbreviated as OO, is a free and open-source office productivity software suite offered by The Apache Software Foundation (ASF) for word processing, spreadsheets, presentations, databases, graphics, and more.
@@ -123,6 +142,10 @@ Related:
 
 * [Tor Browser](https://www.torproject.org/) - Tor Browser is your choice if you need an extra layer of anonymity. It's a modified version of Firefox ESR, which comes with pre-installed privacy add-ons, encryption, and an advanced proxy.
 
+- Add-ons:
+
+  - [PrivacyTools.io Recommended Browser Add-ons](https://privacytools.io/browsers/#addons)
+
 ## Antivirus
 Windows defender should be more than enough for virus protection, combined with [Malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. But this Guide removes Windows Defender to prevent data collection. Even Malwarebytes can collect data. You don't need any Anti-Virus if you browse the internet safely. Install browser add-ons(Given in this guide) that protect you from malicious links.
 
@@ -138,13 +161,20 @@ Simple tool to configure Windows Filtering Platform (WFP) which can configure ne
 * [Postmaster](https://safing.io/)  
 Portmaster is a free and open-source application that puts you back in charge over all your computer's network connections.
 
-## Image
+## Image View/Edit/etc..
 - [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
 
 - [IrfanView](https://www.irfanview.com/) - IrfanView is an image viewer, editor, organiser and converter program for Microsoft Windows.
 
 - [ImageMagick](https://www.imagemagick.org/) - ImageMagick is a free and open-source cross-platform software suite for displaying, creating, converting, modifying, and editing raster images.
   - [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick(fork of ImageMagick) is a free open source, modern and powerful software suite for processing images.
+
+- [Darktable](https://www.darktable.org/) - Darktable is a free and open-source photography application software and raw developer.
+
+Related:
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy#photo-editing-and-management) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome#graphics) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
 
 ## Media Player
 - [VLC](https://www.videolan.org/) - A free and open-source, portable, cross-platform media player software and streaming media server developed by the VideoLAN project.
@@ -172,6 +202,8 @@ Portmaster is a free and open-source application that puts you back in charge ov
   - [OpenShot](https://www.openshot.org/) - OpenShot Video Editor is a free and open-source video editor for Linux, macOS, and Windows. It is an easy to use, quick to learn, and surprisingly powerful video editor.
   
   - [Shotcut ](https://shotcut.org/) - Shotcut is a free and open-source cross-platform video editing application for FreeBSD, Linux, macOS and Windows.
+
+  - [Expressive Suite](https://github.com/ExpressiveSuite) - A professional graphics software suite made for designers and animators alike.
 
 Related:  
 * [Awesome Privacy](https://github.com/pluja/awesome-privacy#video-and-audio) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -217,7 +249,7 @@ Related:
 
 - [Ciano](https://github.com/robertsanseries/ciano) - A multimedia file converter focused on simplicity. Convert videos, music and pictures with the best possible experience.
 
-## System Imaging/Cloning/Recovery/Troubleshoot/Partioning: 
+## System Imaging/Cloning/Recovery/Troubleshoot/Partitioning: 
 - [Macrium Reflect Free](https://www.macrium.com/reflectfree) - Macrium Reflect Free allows you to back up your entire computer and schedule backups.
 
 - [Clonezilla](https://clonezilla.org/) - Clonezilla is a free and open-source disk cloning, disk imaging, data recovery, and deployment computer program
@@ -255,8 +287,8 @@ Related:
 
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU-Z is a freeware that gathers information on some of the main devices of your system.
 
-## 6. For other Softwares
-- [PrivacyTools Guide](https://www.privacytools.io/) - PrivacyTools (also known as privacytools.io) provides knowledge and tools to protect your privacy against global mass surveillance' and is a well-known website in the Education & Reference category.
+## 7. For other Softwares
+- [PrivacyTools](https://www.privacytools.io/) - PrivacyTools (also known as privacytools.io) provides knowledge and tools to protect your privacy against global mass surveillance' and is a well-known website in the Education & Reference category.
 
 - [Privacy Tools List](https://privacytoolslist.com/) - Top privacy tools, apps and services.
 
@@ -276,6 +308,10 @@ Related:
 - ### [Snopyta](https://snopyta.org/)
 
 - ### [Test Your Privacy](https://web.archive.org/web/20210112175807if_/https://www.reddit.com/r/privacytoolsIO/comments/bia6sx/test_your_privacy/)
+
+- ### [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
+
+- ### [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk)
 
 # 🎮 Gaming Tweaks
 
