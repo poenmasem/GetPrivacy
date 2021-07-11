@@ -317,7 +317,7 @@ Related:
 
 - ### [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
 
-- ### [Privacy Watchdog](https://privacy-watchdog.io/)
+
 
 - ### [Snopyta](https://snopyta.org/)
 
