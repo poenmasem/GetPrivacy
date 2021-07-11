@@ -304,9 +304,9 @@ Related:
 
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
 
-- [Spyware Watchdog](https://spyware.neocities.org/)
+- [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
 
-- [DigDeeper](https://digdeeper.neocities.org/)
+- [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
 
 - [Piracy Megathread Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
 
