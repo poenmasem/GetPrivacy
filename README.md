@@ -6,26 +6,26 @@
 - [Download Windows ISO](#1-download-windows-iso)
 - [Removing Unnecessary Components](#2-removing-unnecessary-components)
 - [Burning to USB](#3-burning-to-usb)
-- Activation
-- Installing Drivers
-- Software
-  - Office Suite
-  - Browser 
-  - Antivirus
-  - Firewall
-  - Image View/Edit/etc..
-  - Media Player
-  - Video
-  - Audio
-  - File Converter
-  - System Imaging/Cloning/Recovery/Troubleshoot/Partitioning
-  - Uninstaller
-  - Torrent Client
-  - Other Tools
-  - For other Softwares
+- [Activation](#4-activation)
+- [Installing Drivers](#5-installing-drivers)
+- [Software](#6-software)
+  - [Office Suite](#office-suite)
+  - [Browser](#browser)
+  - [Antivirus](#antivirus)
+  - [Firewall](#firewall)
+  - [Image View/Edit/etc..](#image-vieweditetc)
+  - [Media Player](#media-player)
+  - [Video](#video)
+  - [Audio](#audio)
+  - [File Converter](#file-converter)
+  - [System Imaging/Cloning/Recovery/Troubleshoot/Partitioning](#system-imagingcloningrecoverytroubleshootpartitioning)
+  - [Uninstaller](#uninstaller)
+  - [Torrent Client](#torrent-client)
+  - [Other Tools](#other-tools)
+  - [For other Softwares](#7-for-other-softwares)
 ### Other
-- Other
-- Gaming Tweaks
+- [Other](#other-1)
+- [Gaming Tweaks](#-gaming-tweaks)
 
 ## 1. Download Windows ISO
 
@@ -113,7 +113,7 @@ Related:
 
 * [Calligra](https://calligra.org/) - Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases.
 
-- PDF:
+* #### PDF:
   - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) - Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 
   - [Okular](https://okular.kde.org/) - Okular can view and annotate documents of various formats, including PDF, Postscript, Comic Book, and various image formats. It supports native PDF annotations.
@@ -142,7 +142,7 @@ Related:
 
 * [Tor Browser](https://www.torproject.org/) - Tor Browser is your choice if you need an extra layer of anonymity. It's a modified version of Firefox ESR, which comes with pre-installed privacy add-ons, encryption, and an advanced proxy.
 
-- Add-ons:
+* #### Add-ons:
 
   - [PrivacyTools.io Recommended Browser Add-ons](https://privacytools.io/browsers/#addons)
 
@@ -192,7 +192,7 @@ Related:
 
 - [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - Subtitle Edit is an open source subtitle editor and converter which supports 200+ formats.
 
-* Video Editor:
+- #### Video Editor:
   - [Olive Video Editor](https://www.olivevideoeditor.org/) - Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
   
   - [Kdenlive](https://kdenlive.org/) - Kdenlive is an acronym for KDE Non-Linear Video Editor. It's free, and open-source and works on GNU/Linux, Windows and BSD. It's an intuitive and powerful multi-track video editor compatible with latest video technologies.
@@ -287,6 +287,8 @@ Related:
 
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU-Z is a freeware that gathers information on some of the main devices of your system.
 
+- [Sandboxie Plus](https://sandboxie-plus.com/) - Sandboxie is a sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the windows registry. An isolated virtual environment allows controlled testing of untrusted programs and web surfing.
+
 ## 7. For other Softwares
 - [PrivacyTools](https://www.privacytools.io/) - PrivacyTools (also known as privacytools.io) provides knowledge and tools to protect your privacy against global mass surveillance' and is a well-known website in the Education & Reference category.
 
@@ -327,4 +329,11 @@ Related:
 
 - ### [BDO Ultimate Performance Guide](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit)
 
-<!--Etc.. NEEDED-->
+## Contact:
+- Instagram: [@tom_dko](https://www.instagram.com/tom_dko/)
+
+- YouTube: [Tech Morgan](https://www.youtube.com/channel/UCjcW0X8R1y7BxTFRGfIPztw)
+
+- Telegram: [@deepsmorgan](https://t.me/deepsmorgan)
+  - Channel: [@dtkmorgan](https://t.me/dtkmorgan)
+  - Discussion Group: [@dtkmorgangrp](https://t.me/dtkmorgangrp)
