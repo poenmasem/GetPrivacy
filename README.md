@@ -15,7 +15,7 @@
     - [Add-ons](#add-ons)
   - [Antivirus](#antivirus)
   - [Firewall](#firewall)
-  - [Image View/Edit/etc..](#image-vieweditetc)
+  - [Image View/Edit/Etc..](#image-vieweditetc)
   - [Media Player](#media-player)
   - [Video](#video)
     - [Video Editor](#video-editor)
@@ -165,7 +165,7 @@ Simple tool to configure Windows Filtering Platform (WFP) which can configure ne
 * [Postmaster](https://safing.io/)  
 Portmaster is a free and open-source application that puts you back in charge over all your computer's network connections.
 
-## Image View/Edit/etc..
+## Image View/Edit/Etc..
 - [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
 
 - [IrfanView](https://www.irfanview.com/) - IrfanView is an image viewer, editor, organiser and converter program for Microsoft Windows.
