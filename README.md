@@ -27,7 +27,7 @@
   - [Other Tools](#other-tools)
   - [For other Softwares](#7-for-other-softwares)
 ### Other
-- [Other](#other-1)
+- [Links](#links)
 - [Gaming Tweaks](#-gaming-tweaks)
 - [Contact](#contact)
 
@@ -304,22 +304,24 @@ Related:
 
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
 
-- [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
-
-- [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
-
-- [Privacy Watchdog](https://privacy-watchdog.io/)
-
 - [Piracy Megathread Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
 
-## Other
-- ### [Snopyta](https://snopyta.org/)
-
-- ### [Test Your Privacy](https://web.archive.org/web/20210112175807if_/https://www.reddit.com/r/privacytoolsIO/comments/bia6sx/test_your_privacy/)
+## Links
+- ### [/r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
 
 - ### [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 
 - ### [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk)
+
+- ### [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
+
+- ### [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
+
+- ### [Privacy Watchdog](https://privacy-watchdog.io/)
+
+- ### [Snopyta](https://snopyta.org/)
+
+- ### [Test Your Privacy](https://web.archive.org/web/20210112175807if_/https://www.reddit.com/r/privacytoolsIO/comments/bia6sx/test_your_privacy/)
 
 # 🎮 Gaming Tweaks
 
