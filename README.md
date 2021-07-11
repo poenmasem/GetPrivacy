@@ -304,7 +304,7 @@ Related:
 
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
 
-- [Online Spyware Watchdog](https://spyware.neocities.org/)
+- [Spyware Watchdog](https://spyware.neocities.org/)
 
 - [DigDeeper](https://digdeeper.neocities.org/)
 
