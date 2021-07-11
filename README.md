@@ -308,6 +308,8 @@ Related:
 
 - [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
 
+- [Privacy Watchdog](https://privacy-watchdog.io/)
+
 - [Piracy Megathread Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
 
 ## Other
@@ -336,7 +338,7 @@ Related:
 ## Contact
 - Instagram: [@tom_dko](https://www.instagram.com/tom_dko/)
 
-- YouTube: [Tech Morgan](https://www.youtube.com/channel/UCjcW0X8R1y7BxTFRGfIPztw)
+<!-- - YouTube: [Tech Morgan](https://www.youtube.com/channel/UCjcW0X8R1y7BxTFRGfIPztw) -->
 
 - Telegram: [@deepsmorgan](https://t.me/deepsmorgan)
   - Channel: [@dtkmorgan](https://t.me/dtkmorgan)
