@@ -10,12 +10,15 @@
 - [Installing Drivers](#5-installing-drivers)
 - [Software](#6-software)
   - [Office Suite](#office-suite)
+    - [PDF](#pdf)
   - [Browser](#browser)
+    - [Add-ons](#add-ons)
   - [Antivirus](#antivirus)
   - [Firewall](#firewall)
   - [Image View/Edit/etc..](#image-vieweditetc)
   - [Media Player](#media-player)
   - [Video](#video)
+    - [Video Editor](#video-editor)
   - [Audio](#audio)
   - [File Converter](#file-converter)
   - [System Imaging/Cloning/Recovery/Troubleshoot/Partitioning](#system-imagingcloningrecoverytroubleshootpartitioning)
@@ -337,3 +340,5 @@ Related:
 - Telegram: [@deepsmorgan](https://t.me/deepsmorgan)
   - Channel: [@dtkmorgan](https://t.me/dtkmorgan)
   - Discussion Group: [@dtkmorgangrp](https://t.me/dtkmorgangrp)
+
+<!--Etc.. NEEDED-->
