@@ -1,4 +1,4 @@
-# Setup Windows Privacy Focused
+# Setup Windows Privacy Focused 👨‍💻🔐
 * A Complete Guide to setup Windows with focus on Privacy and Security.  
 * Most of the tools listed here are [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
 
@@ -29,6 +29,8 @@
 ### Other
 - [Other](#other-1)
 - [Gaming Tweaks](#-gaming-tweaks)
+
+- Contact
 
 ## 1. Download Windows ISO
 
@@ -332,7 +334,7 @@ Related:
 
 - ### [BDO Ultimate Performance Guide](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit)
 
-## Contact:
+## Contact
 - Instagram: [@tom_dko](https://www.instagram.com/tom_dko/)
 
 - YouTube: [Tech Morgan](https://www.youtube.com/channel/UCjcW0X8R1y7BxTFRGfIPztw)
@@ -340,5 +342,3 @@ Related:
 - Telegram: [@deepsmorgan](https://t.me/deepsmorgan)
   - Channel: [@dtkmorgan](https://t.me/dtkmorgan)
   - Discussion Group: [@dtkmorgangrp](https://t.me/dtkmorgangrp)
-
-<!--Etc.. NEEDED-->
