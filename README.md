@@ -34,60 +34,60 @@
 
 ## 1. Download Windows ISO
 
-* Windows 7  
+* Windows 7
 [Digital river mirror](https://digitalrivermirror.com/)
 
-* Windows 8  
-[Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
+* Windows 8
+  - [TechBench](https://tb.rg-adguard.net/public.php) 
+  - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
 
-* Windows 10  
+* Windows 10
   - [TechBench](https://tb.rg-adguard.net/public.php)  
   - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
+  - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped Windows 10 ISO and go to Step 5 or else continue Step 3.
 
 Related:
 - [Windows 10 LTSC](https://azimstech.github.io/2018-10-05-windows-10-enterprise-ltsc-2019/) - Debloated from a lot of rubbish. Only receives Security updates, rather than 'feature' updates.
 
-- Tweaking:
-  - [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script)  
+  - Tweaking:
+    - [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script)  
   A powerful PowerShell module for fine-tuning and tweaking Windows 10.
 
-  - [Privatezilla](https://github.com/builtbybel/privatezilla)  
+    - [Privatezilla](https://github.com/builtbybel/privatezilla)
   Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
 
-  - [W10Privacy](https://www.w10privacy.de/english-home/) - (Only for advanced users)  
+    - [W10Privacy](https://www.w10privacy.de/english-home/) - (Only for advanced users)
   W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
 
 ## 2. Removing Unnecessary Components
-* Windows 7  
+* Windows 7
   * [Integrate7 Script](https://www.wincert.net/forum/topic/14001-integrate7-script-%E2%80%93-automatically-download-and-slipstream-all-updates-up-to-052021/) - It gets Windows 7 ISO image (any language, any architecture), download all post-SP1 updates directly from Microsoft site and create new bootable Windows 7 ISO (with all updates integrated). Removes all bloatware (Telemetry, Diagnostics, Windows Defender).
 
-* Windows 8  
+* Windows 8
   * [W8.1-Tweak-Pack](https://www.ntlite.com/community/index.php?threads/clangers-download-page.1272/post-10855) - They include deleting registry entries and tasks folders, they are not a component removal.
-
-* Windows 10  
-  * [Windows 10 AME](https://ameliorated.info/) - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
-    * [Getting Started](https://wiki.ameliorated.info/doku.php?id=getting_started)
-    * [The Case Against Anti-Virus Software](https://wiki.ameliorated.info/doku.php?id=antivirus)
-    * [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)
-    * (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
 
 ## 3. Burning to USB
 * [Rufus](https://rufus.ie/en/) - Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc. Rufus is fast. For instance it's about twice as fast as UNetbootin, Universal USB Installer.
 
-* [Ventoy](https://www.ventoy.net/en/index.html) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
+* [Ventoy](https://www.ventoy.net/en/index.html) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files. With ventoy, you don't need to format the disk again and again, you just need to copy the iso file to the USB drive and boot it.
 
 ## 4. Installation Settings
 - For Windows 7 & 8, turn off any options that require Internet.
-- [Windows 10](https://ameliorated.info/video/Windows_Initial_Startup.mp4) - AME Guide Video
+- Windows 10 **(Ignore this if you download the ISO from AME website)**
+  - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
+  - Post-Installation
+    - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2)
+    - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
+- Other(AME)
+  * [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)
 
 ## 5. Activation
+**Ignore this if you have already activated your Windows Permanently**
+
 * Windows 7: [Requires Login]
-  * [Daz Loader (Original)](https://forums.mydigitallife.net/threads/windows-loader-download.58464/) - Permanent Activation
+  * [Daz Loader (Original)](https://forums.mydigitallife.net/threads/windows-loader-download.58464/) - Permanent Activation (For GPT Partition, use Rearm Wizard)
 
   * [Rearm Wizard](https://forums.mydigitallife.net/threads/rearm-wizard-the-premier-rearm-solution-for-windows-7-and-office-2013.43861/) - Auto Trial Reset Script
-
-  * For GPT Partitions:
-    - [Rearm Wizard](https://forums.mydigitallife.net/threads/rearm-wizard-the-premier-rearm-solution-for-windows-7-and-office-2013.43861/) - Auto Trial Reset Script
 
 * Windows 8  
 [KMS Script by abbodi1406](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - A batch script(s) to automate the activation of supported Windows and Office products using local KMS server emulator or an external server.
@@ -97,7 +97,7 @@ Related:
 
 ## 6. Installing Drivers
 * [Snappy Driver Installer](https://www.snappy-driver-installer.org/) - Snappy Driver Installer Origin(SDIO). This method is the easiest method of installing drivers.
-But, you should search for Touchpad and Graphics Drivers in manufacturer website to prevent errors.
+**You should search for Touchpad and Graphics Drivers in your manufacturer website to prevent errors.**
 
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVCleanstall lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
@@ -113,7 +113,7 @@ Related:
 
 ## 7. Software
 
-## Office Suite
+### Office Suite
 * [Apache OpenOffice](https://www.openoffice.org/) - OpenOffice, sometimes abbreviated as OO, is a free and open-source office productivity software suite offered by The Apache Software Foundation (ASF) for word processing, spreadsheets, presentations, databases, graphics, and more.
 
 * [OnlyOffice](https://www.onlyoffice.com/) - OnlyOffice, stylized as ONLYOFFICE, is a free software office suite developed by Ascensio System SIA, a company headquartered in Riga, Latvia.
@@ -139,7 +139,7 @@ Related:
 
   - [NightPDF](https://github.com/libreloya/NightPDF) - Dark Mode PDF Reader built using Electron and PDF.js.
 
-## Browser
+### Browser
 * [Firefox](https://firefox.com/) - Firefox is fast, reliable, open-source, and respects your privacy. Don't forget to adjust the settings according to our recommendations.
   - [arkenfox user.js (formerly ghacks-user.js)](https://github.com/arkenfox/user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
 
@@ -155,22 +155,22 @@ Related:
 
   - [PrivacyTools.io Recommended Browser Add-ons](https://privacytools.io/browsers/#addons)
 
-## Antivirus
-Windows defender should be more than enough for virus protection, combined with [Malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. But this Guide removes Windows Defender to prevent data collection. Even Malwarebytes can collect data. You don't need any Anti-Virus if you browse the internet safely. Install browser add-ons(Given in this guide) that protect you from malicious links.
+### Antivirus
+Windows defender should be more than enough for virus protection, combined with [Malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. But this Guide removes Windows Defender to prevent data collection. Even Malwarebytes can collect data. You don't need any Anti-Virus if you browse the internet safely. Install browser add-ons(Link given in this guide) that protect you from malicious links.
 
 * [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests  
 * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines  
 * [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
 * [The Case Against Anti-Virus Software](https://wiki.ameliorated.info/doku.php?id=antivirus) - AME Wiki
  
-## Firewall
+### Firewall
 * [Simplewall](https://www.henrypp.org/product/simplewall)  
 Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 
 * [Postmaster](https://safing.io/)  
 Portmaster is a free and open-source application that puts you back in charge over all your computer's network connections.
 
-## Graphics
+### Graphics
 - [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
 
 - [IrfanView](https://www.irfanview.com/) - IrfanView is an image viewer, editor, organiser and converter program for Microsoft Windows.
@@ -185,7 +185,7 @@ Related:
 
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome#graphics) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
 
-## Media Player
+### Media Player
 - [VLC](https://www.videolan.org/) - A free and open-source, portable, cross-platform media player software and streaming media server developed by the VideoLAN project.
 
 - [MPC-HC](https://github.com/clsid2/mpc-hc/) - Media Player Classic - Home Cinema (MPC-HC) is a free and open-source video and audio player for Windows.
@@ -196,7 +196,7 @@ Related:
 
 - [Audacious](https://audacious-media-player.org/) - Audacious is a free and open-source audio player software with a focus on low resource use, high audio quality, and support for a wide range of audio formats.
 
-## Video
+### Video
 - [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - Subtitle Edit is an open source subtitle editor and converter which supports 200+ formats.
 
 - #### Video Editor:
@@ -219,7 +219,7 @@ Related:
 
 - [Awesome Alternatives](https://codeberg.org/LinuxCafeFederation/awesome-alternatives#audio-video-editing-software)
 
-## Audio
+### Audio
 * [Audacity](https://www.audacityteam.org/)  - Audacity is a free and open-source digital audio editor and recording application software, available for Windows, macOS, Linux, and other Unix-like operating systems.
   > Audacity has been acquired by Muse Group, which also owns MuseScore and Ultimate Guitar
   - [Audacity fork by Cookie Engineer](https://github.com/cookiengineer/audacity) - Audacity Fork without any Sentry Telemetry or Crash Reporting.
@@ -239,7 +239,7 @@ Related:
 
 * [Awesome Windows](https://github.com/Awesome-Windows/Awesome#audio) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
 
-## File Converter
+### File Converter
 - [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs. Can also be used for compressing videos.
 
 - [modfy.video](https://github.com/modfy/modfy.video) - A video transcoder and converter built using Web Assembly and FFMPEG to transcode and convert videos right in your browser while protecting your privacy
@@ -256,7 +256,7 @@ Related:
 
 - [Ciano](https://github.com/robertsanseries/ciano) - A multimedia file converter focused on simplicity. Convert videos, music and pictures with the best possible experience.
 
-## Drive Tools
+### Drive Tools
 - [Macrium Reflect Free](https://www.macrium.com/reflectfree) - Macrium Reflect Free allows you to back up your entire computer and schedule backups.
 
 - [Clonezilla](https://clonezilla.org/) - Clonezilla is a free and open-source disk cloning, disk imaging, data recovery, and deployment computer program
@@ -271,18 +271,19 @@ Related:
 
 - [GParted](https://gparted.org/) - GParted is a free partition editor for graphically managing your disk partitions. GParted can be used on x86 and x86-64 based computers running Linux, Windows, or Mac OS X by booting from media containing GParted Live.
 
-## Uninstaller
+### Uninstaller
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Bulk Crap Uninstaller (BCUninstaller, BCU) is a free, open source program manager. It excels at removing large amounts of applications with minimal user input.
 
-## Torrent Client
+### Torrent Client
 - [Piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/tools#wiki_.25BA_torrent_clients)
 
-## Maintenance
+### Maintenance
 - [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source disk space cleaner, privacy manager, and computer system optimizer.
 
 - [Cleanmgr+](https://www.builtbybel.com/cleanmgrplus) - Cleanmgr+ is a modern take of Microsoft Disk Cleanup and comes with all the features that the original Cleanmgr.exe offers plus several extra ones.
+  - [Additional Scripts](https://github.com/builtbybel/CleanmgrPlus/blob/master/scripts/scripts.md)
 
-## Other Tools
+### Other Tools
 - [Winaero Tweaker](https://winaero.com/) - Winaero is a website hosting freeware tweaking tools for Microsoft Windows.
 
 - System Information:
@@ -310,38 +311,38 @@ Related:
 - [Piracy Megathread Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
 
 ## Links
-### [/r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
+- [/r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
 
-### [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 
-### [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk)
+- [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk)
 
-### [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
+- [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
 
-### [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
+- [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
 
-### [Snopyta](https://snopyta.org/)
+- [Snopyta](https://snopyta.org/)
 
-### [Test Your Privacy](https://web.archive.org/web/20210112175807if_/https://www.reddit.com/r/privacytoolsIO/comments/bia6sx/test_your_privacy/)
+- [Test Your Privacy](https://web.archive.org/web/20210112175807if_/https://www.reddit.com/r/privacytoolsIO/comments/bia6sx/test_your_privacy/)
 
 # 🎮 Gaming Tweaks
 
-### [Game / Performance / Networking tweaks, tips, hacks, apps: REAL PERFORMANCE GUIDE](https://n1kobg.blogspot.com/)
+- [Game / Performance / Networking tweaks, tips, hacks, apps: REAL PERFORMANCE GUIDE](https://n1kobg.blogspot.com/)
 
-### [Milkbrain's Basic Windows Optimization Guide](https://docs.google.com/document/d/112uc7XnMA4QFTKF6i4iFdXfar6b5YlLwrdF9N-Z5TcI/edit)
+- [Milkbrain's Basic Windows Optimization Guide](https://docs.google.com/document/d/112uc7XnMA4QFTKF6i4iFdXfar6b5YlLwrdF9N-Z5TcI/edit)
 
-### [Milkbrain's Advanced FPS Boost Guide](https://docs.google.com/document/d/1XsGfW1EjjW7rutzZ8tpX7t3FvLc7WF4rjtfC-77Louw/edit)
+- [Milkbrain's Advanced FPS Boost Guide](https://docs.google.com/document/d/1XsGfW1EjjW7rutzZ8tpX7t3FvLc7WF4rjtfC-77Louw/edit)
 
-### [Danske’s Guide](https://docs.google.com/document/d/18uPEXJC5LSto8x9X_GteSI58sfQLCfamDG1HNHJWrQU/edit)
+- [Danske’s Guide](https://docs.google.com/document/d/18uPEXJC5LSto8x9X_GteSI58sfQLCfamDG1HNHJWrQU/edit)
 
-### [Calypto's Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
+- [Calypto's Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
 
-### [BDO Ultimate Performance Guide](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit)
+- [BDO Ultimate Performance Guide](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit)
 
 ## Contact
 - Instagram: [@tom_dko](https://www.instagram.com/tom_dko/)
 
-<!-- - YouTube: [Tech Morgan](https://www.youtube.com/channel/UCjcW0X8R1y7BxTFRGfIPztw) -->
+- [Tech Morgan](https://www.youtube.com/channel/UCjcW0X8R1y7BxTFRGfIPztw)
 
 - Telegram: [@deepsmorgan](https://t.me/deepsmorgan)
   - Channel: [@dtkmorgan](https://t.me/dtkmorgan)
