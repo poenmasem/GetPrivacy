@@ -77,7 +77,7 @@ Related:
 * [Ventoy](https://www.ventoy.net/en/index.html) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 
 ## 4. Installation Settings
-
+- For Windows 7 & 8, turn off any options that require Internet.
 - [Windows 10](https://ameliorated.info/video/Windows_Initial_Startup.mp4) - AME Guide Video
 
 ## 5. Activation
