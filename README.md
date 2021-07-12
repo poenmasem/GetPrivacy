@@ -15,7 +15,7 @@
     - [Add-ons](#add-ons)
   - [Antivirus](#antivirus)
   - [Firewall](#firewall)
-  - [Image View/Edit/Etc..](#image-vieweditetc)
+  - [Graphics](#graphics)
   - [Media Player](#media-player)
   - [Video](#video)
     - [Video Editor](#video-editor)
@@ -165,7 +165,7 @@ Simple tool to configure Windows Filtering Platform (WFP) which can configure ne
 * [Postmaster](https://safing.io/)  
 Portmaster is a free and open-source application that puts you back in charge over all your computer's network connections.
 
-## Image View/Edit/Etc..
+## Graphics
 - [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
 
 - [IrfanView](https://www.irfanview.com/) - IrfanView is an image viewer, editor, organiser and converter program for Microsoft Windows.
@@ -298,7 +298,7 @@ Related:
 
 - [Privacy Tools List](https://privacytoolslist.com/) - Top privacy tools, apps and services.
 
-- [FOSS_Stuff](https://github.com/samedamci/FOSS_Stuff/blob/master/list.md) - FOSS and privacy software
+- [FOSS_Stuff](https://github.com/samedamci/FOSS_Stuff/blob/master/list.md) - FOSS and privacy software.
 
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
@@ -316,8 +316,6 @@ Related:
 - ### [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
 
 - ### [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
-
-
 
 - ### [Snopyta](https://snopyta.org/)
 
