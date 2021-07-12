@@ -192,8 +192,6 @@ Related:
 - [Audacious](https://audacious-media-player.org/) - Audacious is a free and open-source audio player software with a focus on low resource use, high audio quality, and support for a wide range of audio formats.
 
 ## Video
-- [VLC](https://www.videolan.org/) - A collection of tools for the Matroska media container format by Moritz Bunkus including mkvmerge.
-
 - [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - Subtitle Edit is an open source subtitle editor and converter which supports 200+ formats.
 
 - #### Video Editor:
