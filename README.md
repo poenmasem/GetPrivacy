@@ -6,9 +6,10 @@
 - [Download Windows ISO](#1-download-windows-iso)
 - [Removing Unnecessary Components](#2-removing-unnecessary-components)
 - [Burning to USB](#3-burning-to-usb)
-- [Activation](#4-activation)
-- [Installing Drivers](#5-installing-drivers)
-- [Software](#6-software)
+- [Installation Settings](#4-installation-settings)
+- [Activation](#5-activation)
+- [Installing Drivers](#6-installing-drivers)
+- [Software](#7-software)
   - [Office Suite](#office-suite)
     - [PDF](#pdf)
   - [Browser](#browser)
@@ -25,7 +26,7 @@
   - [Uninstaller](#uninstaller)
   - [Torrent Client](#torrent-client)
   - [Other Tools](#other-tools)
-  - [For other Softwares](#7-for-other-softwares)
+- [For other Softwares](#8-for-other-softwares)
 ### Other
 - [Links](#links)
 - [Gaming Tweaks](#-gaming-tweaks)
@@ -75,7 +76,11 @@ Related:
 
 * [Ventoy](https://www.ventoy.net/en/index.html) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 
-## 4. Activation
+## 4. Installation Settings
+
+- [Windows 10](https://ameliorated.info/video/Windows_Initial_Startup.mp4) - AME Guide Video
+
+## 5. Activation
 * Windows 7: [Requires Login]
   * [Daz Loader (Original)](https://forums.mydigitallife.net/threads/windows-loader-download.58464/) - Permanent Activation
 
@@ -90,7 +95,7 @@ Related:
 * Windows 10  
 [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) (Microsoft Activation Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 
-## 5. Installing Drivers
+## 6. Installing Drivers
 * [Snappy Driver Installer](https://www.snappy-driver-installer.org/) - Snappy Driver Installer Origin(SDIO). This method is the easiest method of installing drivers.
 But, you should search for Touchpad and Graphics Drivers in manufacturer website to prevent errors.
 
@@ -106,7 +111,7 @@ But, you should search for Touchpad and Graphics Drivers in manufacturer website
 Related:  
 [AME - Getting Started](https://wiki.ameliorated.info/doku.php?id=getting_started)
 
-## 6. Software
+## 7. Software
 
 ## Office Suite
 * [Apache OpenOffice](https://www.openoffice.org/) - OpenOffice, sometimes abbreviated as OO, is a free and open-source office productivity software suite offered by The Apache Software Foundation (ASF) for word processing, spreadsheets, presentations, databases, graphics, and more.
@@ -291,7 +296,7 @@ Related:
 
 - [Sandboxie Plus](https://sandboxie-plus.com/) - Sandboxie is a sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the windows registry. An isolated virtual environment allows controlled testing of untrusted programs and web surfing.
 
-## 7. For other Softwares
+## 8. For other Softwares
 - [PrivacyTools](https://www.privacytools.io/) - PrivacyTools (also known as privacytools.io) provides knowledge and tools to protect your privacy against global mass surveillance' and is a well-known website in the Education & Reference category.
 
 - [Privacy Tools List](https://privacytoolslist.com/) - Top privacy tools, apps and services.
@@ -305,33 +310,33 @@ Related:
 - [Piracy Megathread Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
 
 ## Links
-- ### [/r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
+### [/r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
 
-- ### [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
+### [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 
-- ### [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk)
+### [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk)
 
-- ### [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
+### [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
 
-- ### [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
+### [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
 
-- ### [Snopyta](https://snopyta.org/)
+### [Snopyta](https://snopyta.org/)
 
-- ### [Test Your Privacy](https://web.archive.org/web/20210112175807if_/https://www.reddit.com/r/privacytoolsIO/comments/bia6sx/test_your_privacy/)
+### [Test Your Privacy](https://web.archive.org/web/20210112175807if_/https://www.reddit.com/r/privacytoolsIO/comments/bia6sx/test_your_privacy/)
 
 # 🎮 Gaming Tweaks
 
-- ### [Game / Performance / Networking tweaks, tips, hacks, apps: REAL PERFORMANCE GUIDE](https://n1kobg.blogspot.com/)
+### [Game / Performance / Networking tweaks, tips, hacks, apps: REAL PERFORMANCE GUIDE](https://n1kobg.blogspot.com/)
 
-- ### [Milkbrain's Basic Windows Optimization Guide](https://docs.google.com/document/d/112uc7XnMA4QFTKF6i4iFdXfar6b5YlLwrdF9N-Z5TcI/edit)
+### [Milkbrain's Basic Windows Optimization Guide](https://docs.google.com/document/d/112uc7XnMA4QFTKF6i4iFdXfar6b5YlLwrdF9N-Z5TcI/edit)
 
-- ### [Milkbrain's Advanced FPS Boost Guide](https://docs.google.com/document/d/1XsGfW1EjjW7rutzZ8tpX7t3FvLc7WF4rjtfC-77Louw/edit)
+### [Milkbrain's Advanced FPS Boost Guide](https://docs.google.com/document/d/1XsGfW1EjjW7rutzZ8tpX7t3FvLc7WF4rjtfC-77Louw/edit)
 
-- ### [Danske’s Guide](https://docs.google.com/document/d/18uPEXJC5LSto8x9X_GteSI58sfQLCfamDG1HNHJWrQU/edit)
+### [Danske’s Guide](https://docs.google.com/document/d/18uPEXJC5LSto8x9X_GteSI58sfQLCfamDG1HNHJWrQU/edit)
 
-- ### [Calypto's Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
+### [Calypto's Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
 
-- ### [BDO Ultimate Performance Guide](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit)
+### [BDO Ultimate Performance Guide](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit)
 
 ## Contact
 - Instagram: [@tom_dko](https://www.instagram.com/tom_dko/)
