@@ -342,7 +342,7 @@ Related:
 ## Contact
 - Instagram: [@tom_dko](https://www.instagram.com/tom_dko/)
 
-- [Tech Morgan](https://www.youtube.com/channel/UCjcW0X8R1y7BxTFRGfIPztw)
+- YouTube: [Tech Morgan](https://www.youtube.com/channel/UCjcW0X8R1y7BxTFRGfIPztw)
 
 - Telegram: [@deepsmorgan](https://t.me/deepsmorgan)
   - Channel: [@dtkmorgan](https://t.me/dtkmorgan)
