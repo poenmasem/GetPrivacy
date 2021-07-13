@@ -35,7 +35,7 @@
 ## 1. Download Windows ISO
 
 * Windows 7
-- [Digital river mirror](https://digitalrivermirror.com/)
+  - [Digital river mirror](https://digitalrivermirror.com/)
 
 * Windows 8
   - [TechBench](https://tb.rg-adguard.net/public.php) 
