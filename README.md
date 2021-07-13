@@ -44,7 +44,7 @@
 * Windows 10
   - [TechBench](https://tb.rg-adguard.net/public.php)  
   - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
-  - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped Windows 10 ISO and go to Step 5 or else continue Step 3.
+  - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped Windows 10 ISO and go to Step 5 or else continue to Step 3.
 
 Related:
 - [Windows 10 LTSC](https://azimstech.github.io/2018-10-05-windows-10-enterprise-ltsc-2019/) - Debloated from a lot of rubbish. Only receives Security updates, rather than 'feature' updates.
@@ -167,7 +167,7 @@ Windows defender should be more than enough for virus protection, combined with 
 * [Simplewall](https://www.henrypp.org/product/simplewall)  
 Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 
-* [Postmaster](https://safing.io/)  
+* [Portmaster](https://safing.io/)  
 Portmaster is a free and open-source application that puts you back in charge over all your computer's network connections.
 
 ### Graphics
@@ -309,6 +309,10 @@ Related:
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
 
 - [Piracy Megathread Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
+
+- [NirSoft](https://www.nirsoft.net/) - NirSoft web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.
+
+- [Sordum](https://www.sordum.org/) - Collection of tools to simplify your Computer usage
 
 ## Links
 - [/r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
