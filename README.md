@@ -71,16 +71,18 @@ Related:
 
 ## 4. Installation Settings
 - For Windows 7 & 8, turn off any options that require Internet.
+
 - Windows 10 **(Ignore this if you have downloaded the ISO from AME website)**
   - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
   - Post-Installation
     - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2)
     - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
+
 - Other(AME)
   * [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)
 
 ## 5. Activation
-**Ignore this if you have already activated your Windows Permanently**
+**(Ignore this if you have already activated your Windows Permanently)**
 
 * Windows 7: [Requires Login]
   * [Daz Loader (Original)](https://forums.mydigitallife.net/threads/windows-loader-download.58464/) - Permanent Activation (For GPT Partition, use Rearm Wizard)
