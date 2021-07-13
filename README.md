@@ -50,11 +50,9 @@ Related:
 - [Windows 10 LTSC](https://azimstech.github.io/2018-10-05-windows-10-enterprise-ltsc-2019/) - Debloated from a lot of rubbish. Only receives Security updates, rather than 'feature' updates.
 
   - Tweaking:
-    - [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script)  
-  A powerful PowerShell module for fine-tuning and tweaking Windows 10.
+    - [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A powerful PowerShell module for fine-tuning and tweaking Windows 10.
 
-    - [Privatezilla](https://github.com/builtbybel/privatezilla)
-  Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
+    - [Privatezilla](https://github.com/builtbybel/privatezilla) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
 
     - [W10Privacy](https://www.w10privacy.de/english-home/) - (Only for advanced users)
   W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
