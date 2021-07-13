@@ -312,7 +312,7 @@ Related:
 
 - [NirSoft](https://www.nirsoft.net/) - NirSoft web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.
 
-- [Sordum](https://www.sordum.org/) - Collection of tools to simplify your Computer usage
+- [Sordum](https://www.sordum.org/) - Collection of tools to simplify your Computer usage.
 
 ## Links
 - [/r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
