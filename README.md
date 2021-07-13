@@ -156,7 +156,7 @@ Related:
   - [PrivacyTools.io Recommended Browser Add-ons](https://privacytools.io/browsers/#addons)
 
 ### Antivirus
-Windows defender should be more than enough for virus protection, combined with [Malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. But this Guide removes Windows Defender to prevent data collection. Even Malwarebytes can collect data. You don't need any Anti-Virus if you browse the internet safely. Install browser add-ons(Link given in this guide) that protect you from malicious links.
+Windows defender should be more than enough for virus protection, combined with [Malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. But this Guide removes Windows Defender to prevent data collection. Even Malwarebytes can collect data. You don't need any Anti-Virus if you browse the internet safely. Install [PrivacyTools.io Recommended Browser Add-ons](#add-ons).
 
 * [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests  
 * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines  
@@ -319,7 +319,7 @@ Related:
 
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 
-- [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk)
+- [NoGoolag (Telegram Group)](https://t.me/joinchat/nMOOE4YJPDFhZjZk)
 
 - [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
 
