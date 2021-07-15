@@ -79,7 +79,8 @@ Related:
     - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
 
 - Other(AME)
-  * [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)
+  - [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)
+  - [AME Guides](https://t.me/AMEGuides)
 
 ## 5. Activation
 **(Ignore this if you have already activated your Windows Permanently)**
