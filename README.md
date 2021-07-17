@@ -49,14 +49,6 @@
 Related:
 - [Windows 10 LTSC](https://azimstech.github.io/2018-10-05-windows-10-enterprise-ltsc-2019/) - Debloated from a lot of rubbish. Only receives Security updates, rather than 'feature' updates.
 
-  - Tweaking:
-    - [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A powerful PowerShell module for fine-tuning and tweaking Windows 10.
-
-    - [Privatezilla](https://github.com/builtbybel/privatezilla) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
-
-    - [W10Privacy](https://www.w10privacy.de/english-home/) - (Only for advanced users)
-  W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
-
 ## 2. Removing Unnecessary Components
 * Windows 7
   * [Integrate7 Script](https://www.wincert.net/forum/topic/14001-integrate7-script-%E2%80%93-automatically-download-and-slipstream-all-updates-up-to-052021/) - It gets Windows 7 ISO image (any language, any architecture), download all post-SP1 updates directly from Microsoft site and create new bootable Windows 7 ISO (with all updates integrated). Removes all bloatware (Telemetry, Diagnostics, Windows Defender).
@@ -78,8 +70,15 @@ Related:
     - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2)
     - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
 
-- Windows 10 LTSC - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
+- Windows 10 LTSC
+  - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
+  - Tweaking:
+    - [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A powerful PowerShell module for fine-tuning and tweaking Windows 10.
 
+    - [Privatezilla](https://github.com/builtbybel/privatezilla) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
+
+    - [W10Privacy](https://www.w10privacy.de/english-home/) - (Only for advanced users)
+  W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
 - Other(AME)
   - [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)
   - [AME Guides](https://t.me/AMEGuides)
