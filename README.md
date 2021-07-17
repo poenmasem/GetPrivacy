@@ -59,9 +59,10 @@ Related:
 
 ## 3. Burning to USB
 * [Rufus](https://rufus.ie/en/) - Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc. Rufus is fast. For instance it's about twice as fast as UNetbootin, Universal USB Installer.
+ - [Tutorial](https://softwarekeep.com/help-center/how-to-create-a-bootable-usb-using-rufus)
 
 * [Ventoy](https://www.ventoy.net/en/index.html) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files. With ventoy, you don't need to format the disk again and again, you just need to copy the iso file to the USB drive and boot it.
-
+  - [Tutorial](https://www.howto-connect.com/ventoy-create-bootable-usb-easily-with-iso-multi-boot-support/)
 ## 4. Installation Settings
 - For Windows 7 & 8, turn off any options that require Internet.
 
