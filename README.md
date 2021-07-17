@@ -1,6 +1,6 @@
 # Setup Windows Privacy Focused 👨‍💻🔐
-* A Complete Guide to setup Windows with focus on Privacy and Security.  
-* Most of the softwares listed here are [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software).
+* A Complete Guide to setup Windows with focus on Privacy and Security
+* Most of the softwares listed here are [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)
 
 ## Contents
 - [Download Windows ISO](#1-download-windows-iso)
