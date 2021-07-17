@@ -78,6 +78,8 @@ Related:
     - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2)
     - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
 
+- Windows 10 LTSC - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
+
 - Other(AME)
   - [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)
   - [AME Guides](https://t.me/AMEGuides)
