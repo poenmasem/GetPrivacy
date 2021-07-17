@@ -313,8 +313,6 @@ Related:
 
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
 
-- [Piracy Megathread Tools](https://www.reddit.com/r/Piracy/wiki/megathread/tools)
-
 - [NirSoft](https://www.nirsoft.net/) - NirSoft web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.
 
 - [Sordum](https://www.sordum.org/) - Collection of tools to simplify your Computer usage.
