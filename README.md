@@ -45,6 +45,7 @@
   - [TechBench](https://tb.rg-adguard.net/public.php)  
   - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
   - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped Windows 10 ISO and go to Step 5 or else continue to Step 3.
+    - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
 
 Related:
 - [Windows 10 LTSC](https://azimstech.github.io/2018-10-05-windows-10-enterprise-ltsc-2019/) - Debloated from a lot of rubbish. Only receives Security updates, rather than 'feature' updates.
@@ -79,8 +80,8 @@ Related:
 
     - [W10Privacy](https://www.w10privacy.de/english-home/) - (Only for advanced users)
   W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
-- Other(AME)
-  - [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)
+- Other
+  - [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)&nbsp;[AME]
   - [AME Guides](https://t.me/AMEGuides)
 
 ## 5. Activation
