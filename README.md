@@ -67,12 +67,13 @@ Related:
 ## 4. Installation Settings
 - For Windows 7 & 8, turn off any options that require Internet.
 
-- Windows 10 **(Ignore this if you have downloaded the ISO from AME website)**
+- Windows 10
   - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
-  - Post-Installation
-    - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2)
-    - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
-  - Support: [AME Telegram Group](https://t.me/joinchat/CR-xFBGQKVt7HPZKgZfbxg)
+  - **(Ignore this if you have downloaded the ISO from AME website)**
+    - Post-Installation
+      - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2)
+      - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
+   - Support: [AME Telegram Group](https://t.me/joinchat/CR-xFBGQKVt7HPZKgZfbxg)
 
 - Windows 10 LTSC
   - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
