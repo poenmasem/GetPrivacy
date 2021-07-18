@@ -68,12 +68,13 @@ Related:
 - For Windows 7 & 8, turn off any options that require Internet.
 
 - Windows 10
-  - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
   - **(Ignore this if you have downloaded the ISO from AME website)**
+    - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
     - Post-Installation
       - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2)
       - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
-   - Support: [AME Telegram Group](https://t.me/joinchat/CR-xFBGQKVt7HPZKgZfbxg)
+
+  - Support: [AME Telegram Group](https://t.me/joinchat/CR-xFBGQKVt7HPZKgZfbxg)
 
 - Windows 10 LTSC
   - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
@@ -105,6 +106,7 @@ Related:
 ## 6. Installing Drivers
 * [Snappy Driver Installer](https://www.snappy-driver-installer.org/) - Snappy Driver Installer Origin(SDIO). This method is the easiest method of installing drivers.
 **You should search for Touchpad and Graphics Drivers in your manufacturer website to prevent errors.**
+  - [Themes](https://sourceforge.net/projects/snappy-driver-installer/files/Themes/) (Best themes are Atardecer, Coax and Lite)
 
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVCleanstall lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
@@ -163,7 +165,7 @@ Related:
   - [PrivacyTools.io Recommended Browser Add-ons](https://privacytools.io/browsers/#addons)
 
 ### Antivirus
-Windows defender should be more than enough for virus protection, combined with [Malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. But this Guide removes Windows Defender to prevent data collection. Even Malwarebytes can collect data. You don't need any Anti-Virus if you browse the internet safely. Install [PrivacyTools.io Recommended Browser Add-ons](#add-ons).
+Windows defender should be more than enough for virus protection, combined with [Malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. Even, you don't need any Anti-Virus if you browse the internet safely. Also install [PrivacyTools.io Recommended Browser Add-ons](#add-ons).
 
 * [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests  
 * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines  
