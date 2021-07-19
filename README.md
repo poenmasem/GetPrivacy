@@ -90,7 +90,7 @@ Related:
   - [AME Guides](https://t.me/AMEGuides)
 
 ## 5. Activation
-**(Ignore this if you have already activated your Windows Permanently)**
+**(Ignore this if you have already activated your Windows Permanently)(If you are switching to another Windows Version/Edition then follow this)**
 
 * Windows 7: [Requires Login]
   * [Daz Loader (Original)](https://forums.mydigitallife.net/threads/windows-loader-download.58464/) - Permanent Activation (For GPT Partition, use Rearm Wizard)
