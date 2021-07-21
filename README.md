@@ -92,9 +92,10 @@ Related:
 ## 5. Activation
 **(Ignore this if you have already activated your Windows Permanently)(If you are switching to another Windows Version/Edition then follow this)**
 
-* Windows 7: [Requires Login]
+* Windows 7:
   - [How to Check if a Disk Uses GPT or MBR](https://www.howtogeek.com/245610/how-to-check-if-a-disk-uses-gpt-or-mbr-and-how-to-convert-between-the-two/)
   
+  - Activator [Requires Login]
     * [Daz Loader (Original)](https://forums.mydigitallife.net/threads/windows-loader-download.58464/) - Permanent Activation (For MBR disks)
 
     * [Rearm Wizard](https://forums.mydigitallife.net/threads/rearm-wizard-the-premier-rearm-solution-for-windows-7-and-office-2013.43861/) - Auto Trial Reset Script (For GPT disks)
