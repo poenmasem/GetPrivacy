@@ -320,6 +320,8 @@ Related:
 
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
 
+- [FOSS Adobe Alternatives](https://twitter.com/XdanielArt/status/1259859435607994370/photo/1)
+
 - [NirSoft](https://www.nirsoft.net/) - NirSoft web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.
 
 - [Sordum](https://www.sordum.org/) - Collection of tools to simplify your Computer usage.
@@ -329,13 +331,13 @@ Related:
 
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 
-- [NoGoolag (Telegram Group)](https://t.me/joinchat/nMOOE4YJPDFhZjZk)
+- [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk)
+
+- [Libreware](https://t.me/Libreware)
 
 - [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
 
 - [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
-
-- [FOSS Adobe Alternatives](https://twitter.com/XdanielArt/status/1259859435607994370/photo/1)
 
 - [Snopyta](https://snopyta.org/)
 
