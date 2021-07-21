@@ -93,9 +93,11 @@ Related:
 **(Ignore this if you have already activated your Windows Permanently)(If you are switching to another Windows Version/Edition then follow this)**
 
 * Windows 7: [Requires Login]
-  * [Daz Loader (Original)](https://forums.mydigitallife.net/threads/windows-loader-download.58464/) - Permanent Activation (For GPT Partition, use Rearm Wizard)
+  - [How to Check if a Disk Uses GPT or MBR](https://www.howtogeek.com/245610/how-to-check-if-a-disk-uses-gpt-or-mbr-and-how-to-convert-between-the-two/)
+  
+    * [Daz Loader (Original)](https://forums.mydigitallife.net/threads/windows-loader-download.58464/) - Permanent Activation (For MBR disks)
 
-  * [Rearm Wizard](https://forums.mydigitallife.net/threads/rearm-wizard-the-premier-rearm-solution-for-windows-7-and-office-2013.43861/) - Auto Trial Reset Script
+    * [Rearm Wizard](https://forums.mydigitallife.net/threads/rearm-wizard-the-premier-rearm-solution-for-windows-7-and-office-2013.43861/) - Auto Trial Reset Script (For GPT disks)
 
 * Windows 8  
 [KMS Script by abbodi1406](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - A batch script(s) to automate the activation of supported Windows and Office products using local KMS server emulator or an external server.
@@ -106,7 +108,7 @@ Related:
 ## 6. Installing Drivers
 * [Snappy Driver Installer](https://www.snappy-driver-installer.org/) - Snappy Driver Installer Origin(SDIO). This method is the easiest method of installing drivers.
 **You should search for Touchpad and Graphics Drivers in your manufacturer website to prevent errors.**
-  - [Themes](https://sourceforge.net/projects/snappy-driver-installer/files/Themes/) (Best themes are Atardecer, Coax, and Lite)
+  - [Themes](https://sourceforge.net/projects/snappy-driver-installer/files/Themes/) (The best themes are Atardecer, Coax, and Lite)
 
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVCleanstall lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
