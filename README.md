@@ -331,11 +331,10 @@ Related:
 
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 
-- [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk)
+- [Libreware](https://t.me/Libreware) - Libre Software Library (Telegram Channel)
+  - [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk) - Telegram Group
 
-- [Libreware](https://t.me/Libreware)
-
-- [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
+-  [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
 
 - [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
 
