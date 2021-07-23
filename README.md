@@ -1,6 +1,6 @@
 # Setup Windows Privacy Focused 👨‍💻🔐
 * A Complete Guide to setup Windows with focus on Privacy and Security.
-* Most of the softwares listed here are [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software). Also includes the safest Activators link to activate Windows so that people don't need to download them from unknown websites.
+* Most of the softwares listed here are [FOSS](https://itsfoss.com/what-is-foss/). Also includes the safest Activators link to activate Windows so that people don't need to download them from unknown websites.
 
 ## Contents
 - [Download Windows ISO](#1-download-windows-iso)
