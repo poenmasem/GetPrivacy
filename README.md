@@ -350,8 +350,8 @@ Related:
 - [Sordum](https://www.sordum.org/) - Collection of tools to simplify your Computer usage.
 
 - [Libreware (Telegram Channel)](https://t.me/Libreware) - Libre Software Library
-  - [NoGoolag](https://t.me/NoGoolag) - Telegram Channel
-  - [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk) - Telegram Group
+  - [NoGoolag](https://t.me/NoGoolag) (Telegram Channel)
+  - [NoGoolag Group](https://t.me/joinchat/nMOOE4YJPDFhZjZk) (Telegram Group)
 
 ## Useful Links
 - [/r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
