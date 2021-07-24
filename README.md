@@ -5,7 +5,7 @@
 
 - For Windows 11, the guide will be updated after it's stable version release.
 
-(Note: Windows is a [Closed Source](https://www.coredna.com/blogs/comparing-open-closed-source-software) OS. So, this guide gives you a privacy & security focused setup as much as possible.)
+(Note: Windows is a [Closed Source](https://www.coredna.com/blogs/comparing-open-closed-source-software) OS. So, this guide gives you a privacy & security focused setup, as much as possible.)
 
 ## Contents
 - [Download Windows ISO File](#1-download-windows-iso-file)
