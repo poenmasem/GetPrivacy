@@ -56,7 +56,7 @@ Related:
   * [Integrate7 Script](https://www.wincert.net/forum/topic/14001-integrate7-script-%E2%80%93-automatically-download-and-slipstream-all-updates-up-to-052021/) - It gets Windows 7 ISO image (any language, any architecture), download all post-SP1 updates directly from Microsoft site and create new bootable Windows 7 ISO (with all updates integrated). Removes all bloatware (Telemetry, Diagnostics, Windows Defender).
 
 * Windows 8
-  * [W8.1-Tweak-Pack](https://www.ntlite.com/community/index.php?threads/clangers-download-page.1272/post-10855) - They include deleting registry entries and tasks folders, they are not a component removal but you can remove them using NTLite. You can also use [MSMG Toolkit](https://msmgtoolkit.in/) to modify the iso as your needs. But, you can go to Windows 10 AME instead of doing this big work.
+  * [W8.1-Tweak-Pack](https://www.ntlite.com/community/index.php?threads/clangers-download-page.1272/post-10855) - They include deleting registry entries and tasks folders, they are not a component removal but you can remove them using NTLite. You can also use [MSMG Toolkit](https://msmgtoolkit.in/) to modify the iso as per your needs. But, you can go to Windows 10 AME instead of doing this big work.
 
 ## 3. Burning to USB
 * [Rufus](https://rufus.ie/en/) - Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc. Rufus is fast. For instance it's about twice as fast as UNetbootin, Universal USB Installer.
