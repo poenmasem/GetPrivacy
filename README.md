@@ -3,7 +3,7 @@
 
 - Most of the softwares listed here are [FOSS](https://itsfoss.com/what-is-foss/). Also includes the safest Activators link to activate Windows so that people don't need to download them from unknown websites.
 
-- For Windows 11, the guide will be updated after it's release.
+- For Windows 11, the guide will be updated after it's stable version release.
 
 (Note: Windows is a [Closed Source](https://www.coredna.com/blogs/comparing-open-closed-source-software) OS. So, this guide gives you a privacy & security focused setup as much as possible.)
 
@@ -356,7 +356,7 @@ Related:
   - [NoGoolag Group](https://t.me/joinchat/nMOOE4YJPDFhZjZk) (Telegram Group)
 
 ## Useful Links
-- [/r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
+- [Reddit /r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
 
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 
