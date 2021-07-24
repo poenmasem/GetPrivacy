@@ -68,7 +68,7 @@ Related:
 ## 4. Installation Settings
 - For Windows 7 & 8, turn off any options that require Internet.
 
-- Windows 8 (If you didn't modify the iso using the Tweak Pack)
+- Windows 8 **(If you didn't modify the iso using the Tweak Pack)**
   - Post-Installation
     - [Windows 8 Setup Script](https://github.com/farag2/Windows-8.1-Setup-Script)  
 
@@ -83,13 +83,15 @@ Related:
 
 - Windows 10 LTSC
   - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
-  - Tweaking:
+  - Post-Installation (Tweaking Tools)
     - [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A powerful PowerShell module for fine-tuning and tweaking Windows 10.
+
+    - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) - O&O ShutUp10 provides users with a simple means of customizing the privacy options in Windows 10 and thus decide which data collection options will stay enabled and which should be blocked.
 
     - [Privatezilla](https://github.com/builtbybel/privatezilla) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
 
-    - [W10Privacy](https://www.w10privacy.de/english-home/) - (Only for advanced users)
-  W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
+    - [W10Privacy](https://www.w10privacy.de/english-home/) (Only for advanced users) -  W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
+
 - Other
   - [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)&nbsp;[AME]
   - [AME Guides](https://t.me/AMEGuides)
