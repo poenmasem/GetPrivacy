@@ -3,6 +3,8 @@
 
 - Most of the softwares listed here are [FOSS](https://itsfoss.com/what-is-foss/). Also includes the safest Activators link to activate Windows so that people don't need to download them from unknown websites.
 
+- For Windows 11, the guide will be updated after it's release.
+
 (Note: Windows is a [Closed Source](https://www.coredna.com/blogs/comparing-open-closed-source-software) OS. So, this guide gives you a privacy & security focused setup as much as possible.)
 
 ## Contents
@@ -38,7 +40,7 @@
 
 ## 1. Download Windows ISO File
 
-* Windows 7
+* Windows 7 (Recommended Edition: Home Premium)
   - [Digital river mirror](https://digitalrivermirror.com/)
 
 * Windows 8
@@ -98,7 +100,7 @@ Related:
 
     - [Privatezilla](https://github.com/builtbybel/privatezilla) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
 
-    - [W10Privacy](https://www.w10privacy.de/english-home/) (Only for advanced users) -  W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
+    - [W10Privacy](https://www.w10privacy.de/english-home/) (Only for advanced users) - W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
 
 - Other
   - [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)&nbsp;[AME]
