@@ -12,6 +12,7 @@
 - [Removing Unnecessary Things from ISO File](#2-removing-unnecessary-things-from-iso-file)
 - [Burning to USB](#3-burning-to-usb)
 - [Installation Settings](#4-installation-settings)
+  - [Post-Installation](#post-installation)
 - [Activation](#5-activation)
 - [Installing Drivers](#6-installing-drivers)
 - [Software](#7-software)
