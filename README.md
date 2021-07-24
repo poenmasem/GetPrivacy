@@ -25,6 +25,7 @@
   - [Drive Tools](#drive-tools)
   - [Uninstaller](#uninstaller)
   - [Torrent Client](#torrent-client)
+  - [Sharing](#sharing)
   - [Other Tools](#other-tools)
 - [For other Softwares](#8-for-other-softwares)
 ### Other
@@ -55,7 +56,7 @@ Related:
   * [Integrate7 Script](https://www.wincert.net/forum/topic/14001-integrate7-script-%E2%80%93-automatically-download-and-slipstream-all-updates-up-to-052021/) - It gets Windows 7 ISO image (any language, any architecture), download all post-SP1 updates directly from Microsoft site and create new bootable Windows 7 ISO (with all updates integrated). Removes all bloatware (Telemetry, Diagnostics, Windows Defender).
 
 * Windows 8
-  * [W8.1-Tweak-Pack](https://www.ntlite.com/community/index.php?threads/clangers-download-page.1272/post-10855) - They include deleting registry entries and tasks folders, they are not a component removal.
+  * [W8.1-Tweak-Pack](https://www.ntlite.com/community/index.php?threads/clangers-download-page.1272/post-10855) - They include deleting registry entries and tasks folders, they are not a component removal but you can remove them using NTLite. You can also use [MSMG Toolkit](https://msmgtoolkit.in/) to modify the iso as your needs. But, you can go to Windows 10 AME instead of doing this big work.
 
 ## 3. Burning to USB
 * [Rufus](https://rufus.ie/en/) - Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc. Rufus is fast. For instance it's about twice as fast as UNetbootin, Universal USB Installer.
@@ -159,6 +160,7 @@ Related:
 
 * [Ungoogled Chomium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency.
   * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
+
 * [Epic Browser](https://www.epicbrowser.com/) - Epic is a private, secure web browser that blocks ads, trackers, fingerprinting, cryptomining, ultrasound signaling and more.
 
 * [Tor Browser](https://www.torproject.org/) - Tor Browser is your choice if you need an extra layer of anonymity. It's a modified version of Firefox ESR, which comes with pre-installed privacy add-ons, encryption, and an advanced proxy.
@@ -236,9 +238,9 @@ Related:
   > Audacity has been acquired by Muse Group, which also owns MuseScore and Ultimate Guitar
   - [Audacity fork by Cookie Engineer](https://github.com/cookiengineer/audacity) - Audacity Fork without any Sentry Telemetry or Crash Reporting.
 
-  - [tenacity](https://github.com/tenacityteam/tenacity) - FLOSS Audacity Fork - No telemetry, crash reports and other shenanigans like that!
+  - [Tenacity](https://github.com/tenacityteam/tenacity) - FLOSS Audacity Fork - No telemetry, crash reports and other shenanigans like that!
 
-  - [audacium](https://github.com/SartoxOnlyGNU/audacium) - Audacity fork without Telemetry and with new features.
+  - [Audacium](https://github.com/SartoxOnlyGNU/audacium) - Audacity fork without Telemetry and with new features.
 
 * [Ardour](https://ardour.org/) - Ardour is a hard disk recorder and digital audio workstation application that runs on Linux, macOS, FreeBSD and Microsoft Windows.
 
@@ -295,6 +297,11 @@ Related:
 - [Cleanmgr+](https://www.builtbybel.com/cleanmgrplus) - Cleanmgr+ is a modern take of Microsoft Disk Cleanup and comes with all the features that the original Cleanmgr.exe offers plus several extra ones.
   - [Additional Scripts](https://github.com/builtbybel/CleanmgrPlus/blob/master/scripts/scripts.md)
 
+### Sharing
+- [KDE Connect](https://kdeconnect.kde.org/) - KDE Connect is a multi platform application developed by KDE, which facilitates communications and data transfer between devices wirelessly over local network.
+
+- [Libreware(Telegram Channel) - Sharing Tool List](https://t.me/Libreware/680)
+
 ### Other Tools
 - [Winaero Tweaker](https://winaero.com/) - Winaero is a website hosting freeware tweaking tools for Microsoft Windows.
 
@@ -308,6 +315,8 @@ Related:
   - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU-Z is a freeware that gathers information on some of the main devices of your system.
 
 - [Sandboxie Plus](https://sandboxie-plus.com/) - Sandboxie is a sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the windows registry. An isolated virtual environment allows controlled testing of untrusted programs and web surfing.
+
+- [WinCDEmu](https://wincdemu.sysprogs.org/) - WinCDEmu is an open-source CD/DVD/BD emulator - a tool that allows you to mount optical disc images by simply clicking on them in Windows Explorer.
 
 ## 8. For other Softwares
 - [PrivacyTools](https://www.privacytools.io/) - PrivacyTools (also known as privacytools.io) provides knowledge and tools to protect your privacy against global mass surveillance' and is a well-known website in the Education & Reference category.
@@ -326,15 +335,16 @@ Related:
 
 - [Sordum](https://www.sordum.org/) - Collection of tools to simplify your Computer usage.
 
+- [Libreware](https://t.me/Libreware) - Libre Software Library (Telegram Channel)
+  - [NoGoolag](https://t.me/NoGoolag) - Telegram Channel
+  - [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk) - Telegram Group
+
 ## Links
 - [/r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
 
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 
-- [Libreware](https://t.me/Libreware) - Libre Software Library (Telegram Channel)
-  - [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk) - Telegram Group
-
--  [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
+- [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
 
 - [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
 
