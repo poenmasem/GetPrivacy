@@ -3,8 +3,8 @@
 * Most of the softwares listed here are [FOSS](https://itsfoss.com/what-is-foss/). Also includes the safest Activators link to activate Windows so that people don't need to download them from unknown websites.
 
 ## Contents
-- [Download Windows ISO](#1-download-windows-iso)
-- [Removing Unnecessary Components](#2-removing-unnecessary-components)
+- [Download Windows ISO File](#1-download-windows-iso-file)
+- [Removing Unnecessary Things from ISO File](#2-removing-unnecessary-things-from-iso-file)
 - [Burning to USB](#3-burning-to-usb)
 - [Installation Settings](#4-installation-settings)
 - [Activation](#5-activation)
@@ -33,7 +33,7 @@
 - [Gaming Tweaks](#-gaming-tweaks)
 - [Contact](#contact)
 
-## 1. Download Windows ISO
+## 1. Download Windows ISO File
 
 * Windows 7
   - [Digital river mirror](https://digitalrivermirror.com/)
@@ -45,18 +45,18 @@
 * Windows 10
   - [TechBench](https://tb.rg-adguard.net/public.php)  
   - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
-  - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped-down Windows 10 ISO and go to Step 5 or else continue to Step 3.
+  - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped-down Windows 10 ISO file and go to Step 5 or else continue to Step 3.
     - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
 
 Related:
 - [Windows 10 LTSC](https://azimstech.github.io/2018-10-05-windows-10-enterprise-ltsc-2019/) - Debloated from a lot of rubbish. Only receives Security updates, rather than 'feature' updates.
 
-## 2. Removing Unnecessary Components
+## 2. Removing Unnecessary Things from ISO File
 * Windows 7
   * [Integrate7 Script](https://www.wincert.net/forum/topic/14001-integrate7-script-%E2%80%93-automatically-download-and-slipstream-all-updates-up-to-052021/) - It gets Windows 7 ISO image (any language, any architecture), download all post-SP1 updates directly from Microsoft site and create new bootable Windows 7 ISO (with all updates integrated). Removes all bloatware (Telemetry, Diagnostics, Windows Defender).
 
 * Windows 8
-  * [W8.1-Tweak-Pack](https://www.ntlite.com/community/index.php?threads/clangers-download-page.1272/post-10855) - They include deleting registry entries and tasks folders, they are not a component removal but you can remove components using NTLite. You can also use [MSMG Toolkit](https://msmgtoolkit.in/) to modify the iso as per your needs. But, you can directly use Windows 10 AME instead of getting Windows 8 iso and doing this big work.
+  * [W8.1-Tweak-Pack](https://www.ntlite.com/community/index.php?threads/clangers-download-page.1272/post-10855) - They include deleting registry entries and tasks folders, they are not a component removal but you can remove components using NTLite. You can also use [MSMG Toolkit](https://msmgtoolkit.in/) to modify the ISO file as per your needs. But, you can directly use Windows 10 AME instead of getting Windows 8 ISO file and doing this big work.
 
 ## 3. Burning to USB
 * [Rufus](https://rufus.ie/en/) - Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc. Rufus is fast. For instance it's about twice as fast as UNetbootin, Universal USB Installer.
@@ -68,22 +68,25 @@ Related:
 ## 4. Installation Settings
 - For Windows 7 & 8, turn off any options that require Internet.
 
-- Windows 8 **(If you didn't modify the iso using the Tweak Pack)**
-  - Post-Installation
-    - [Windows 8 Setup Script](https://github.com/farag2/Windows-8.1-Setup-Script)  
-
 - Windows 10
-  - **(Ignore this if you have downloaded the ISO from AME website)**
+  - **(Ignore this if you have downloaded the ISO file from AME website)**
     - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
-    - Post-Installation
-      - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2)
-      - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
 
   - Support: [AME Telegram Group](https://t.me/joinchat/CR-xFBGQKVt7HPZKgZfbxg)
 
 - Windows 10 LTSC
   - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
-  - Post-Installation (Tweaking Tools)
+
+### Post-Installation
+- Windows 8 **(If you didn't modify the ISO file using the Tweak Pack)**
+  - [Windows 8 Setup Script](https://github.com/farag2/Windows-8.1-Setup-Script)  
+
+- Windows 10 **(Ignore this if you have downloaded the ISO file from AME website)**
+  - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2)
+  - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
+  - Support: [AME Telegram Group](https://t.me/joinchat/CR-xFBGQKVt7HPZKgZfbxg)
+
+- Windows 10 LTSC (Tweaking Tools)
     - [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A powerful PowerShell module for fine-tuning and tweaking Windows 10.
 
     - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) - O&O ShutUp10 provides users with a simple means of customizing the privacy options in Windows 10 and thus decide which data collection options will stay enabled and which should be blocked.
@@ -382,3 +385,6 @@ Related:
   - Discussion Group: [@dtkmorgangrp](https://t.me/dtkmorgangrp)
 
 - Element: @deepsmorgan789:matrix.org
+
+## Issues
+Still finding a better & an user-friendly script to strip-down Windows 8 ISO File. But as I said, Windows 10 AME is a better choice than stripping-down(using any method) and using Windows 8.
