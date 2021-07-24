@@ -1,6 +1,9 @@
 # Setup Windows Privacy Focused 👨‍💻🔐
-* A Complete Guide to setup Windows with focus on Privacy and Security.
-* Most of the softwares listed here are [FOSS](https://itsfoss.com/what-is-foss/). Also includes the safest Activators link to activate Windows so that people don't need to download them from unknown websites.
+- A Complete Guide to setup Windows with focus on Privacy and Security.
+
+- Most of the softwares listed here are [FOSS](https://itsfoss.com/what-is-foss/). Also includes the safest Activators link to activate Windows so that people don't need to download them from unknown websites.
+
+(Note: Windows is a [Closed Source](https://www.coredna.com/blogs/comparing-open-closed-source-software) OS. So, this guide gives you a privacy & security focused setup as much as possible.)
 
 ## Contents
 - [Download Windows ISO File](#1-download-windows-iso-file)
@@ -28,9 +31,9 @@
   - [Sharing](#sharing)
   - [Other Tools](#other-tools)
 - [For other Softwares](#8-for-other-softwares)
-### Other
-- [Links](#links)
+- [Useful Links](#useful-links)
 - [Gaming Tweaks](#-gaming-tweaks)
+- [Issues](#issues)
 - [Contact](#contact)
 
 ## 1. Download Windows ISO File
@@ -66,7 +69,7 @@ Related:
   - [Tutorial](https://www.howto-connect.com/ventoy-create-bootable-usb-easily-with-iso-multi-boot-support/)
 
 ## 4. Installation Settings
-- For Windows 7 & 8, turn off any options that require Internet.
+- In Windows 7 & 8, turn off any options that require an Internet Connection or sending data.
 
 - Windows 10
   - **(Ignore this if you have downloaded the ISO file from AME website)**
@@ -83,7 +86,9 @@ Related:
 
 - Windows 10 **(Ignore this if you have downloaded the ISO file from AME website)**
   - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2)
+  
   - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
+  
   - Support: [AME Telegram Group](https://t.me/joinchat/CR-xFBGQKVt7HPZKgZfbxg)
 
 - Windows 10 LTSC (Tweaking Tools)
@@ -344,11 +349,11 @@ Related:
 
 - [Sordum](https://www.sordum.org/) - Collection of tools to simplify your Computer usage.
 
-- [Libreware](https://t.me/Libreware) - Libre Software Library (Telegram Channel)
+- [Libreware (Telegram Channel)](https://t.me/Libreware) - Libre Software Library
   - [NoGoolag](https://t.me/NoGoolag) - Telegram Channel
   - [NoGoolag](https://t.me/joinchat/nMOOE4YJPDFhZjZk) - Telegram Group
 
-## Links
+## Useful Links
 - [/r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
 
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
@@ -375,6 +380,9 @@ Related:
 
 - [BDO Ultimate Performance Guide](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit)
 
+## Issues
+Still finding a better & an user-friendly script to strip-down Windows 8 ISO File. But as I said, Windows 10 AME is a better choice than stripping-down(using **any** method) and using Windows 8.
+
 ## Contact
 - Instagram: [@tom_dko](https://www.instagram.com/tom_dko/)
 
@@ -385,6 +393,3 @@ Related:
   - Discussion Group: [@dtkmorgangrp](https://t.me/dtkmorgangrp)
 
 - Element: @deepsmorgan789:matrix.org
-
-## Issues
-Still finding a better & an user-friendly script to strip-down Windows 8 ISO File. But as I said, Windows 10 AME is a better choice than stripping-down(using any method) and using Windows 8.
