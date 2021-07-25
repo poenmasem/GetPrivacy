@@ -72,7 +72,7 @@ Related:
   - [Tutorial](https://www.howto-connect.com/ventoy-create-bootable-usb-easily-with-iso-multi-boot-support/)
 
 ## 4. Installation Settings
-- In Windows 7 & 8, turn off any options that require an Internet Connection or sending data.
+- In Windows 7 & 8, turn off, skip any options that require an Internet Connection or sending data.
 
 - Windows 10
   - **(Ignore this if you have downloaded the ISO file from AME website)**
@@ -152,16 +152,20 @@ Related:
 
 * [Calligra](https://calligra.org/) - Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases.
 
-- **(If you are forced to use MS Office, follow this(This process can disable telemetry as much as possible))**
-  - Download MS Office
+- [MS Office](https://www.office.com/) **(Closed Source)** - **(If you are forced to use MS Office, follow this(This process will disable telemetry as much as possible))**
+  - Download and install MS Office (Account sign-in is not necessary after installation)
     - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
-    - [Office Tool Plus](https://github.com/YerongAI/Office-Tool)
+    - [Office Tool Plus](https://github.com/YerongAI/Office-Tool)  
 
   - Activation
     - [KMS Script by abbodi1406](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - A batch script(s) to automate the activation of supported Windows and Office products using local KMS server emulator or an external server.
   
-  - Disable Telemetry
-    - [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/page-61) - (Use option 'T' to disable telemetry)
+   - Disable Telemetry (Also apply it on every update)
+     - Office 2016/365/2019
+       - [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/page-61) - (Use option 'T' to disable telemetry)
+
+      - Office 2010/2013
+        - [Turning off Telemetry reg file](https://web.archive.org/web/20201127230546/https://www.sharepointevolved.com/2015/08/31/turning-off-telemetry-for-office-2013/)
 
 * #### PDF:
   - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) - Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
