@@ -214,7 +214,7 @@ Portmaster is a free and open-source application that puts you back in charge ov
 Related:
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy#photo-editing-and-management) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
-- [Awesome Windows](https://github.com/Awesome-Windows/Awesome#graphics) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome#graphics) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as possible)
 
 ### Media Player
 - [VLC](https://www.videolan.org/) - A free and open-source, portable, cross-platform media player software and streaming media server developed by the VideoLAN project.
@@ -246,7 +246,7 @@ Related:
 Related:  
 * [Awesome Privacy](https://github.com/pluja/awesome-privacy#video-and-audio) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome#video) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome#video) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as possible)
 
 - [Awesome Alternatives](https://codeberg.org/LinuxCafeFederation/awesome-alternatives#audio-video-editing-software)
 
@@ -268,7 +268,7 @@ Related:
 Related:  
 * [Awesome Privacy](https://github.com/pluja/awesome-privacy#video-and-audio) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome#audio) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome#audio) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as possible)
 
 ### File Converter
 - [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs. Can also be used for compressing videos.
@@ -344,7 +344,7 @@ Related:
 
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
-- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as you can)
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as possible)
 
 - [FOSS Adobe Alternatives](https://twitter.com/XdanielArt/status/1259859435607994370/photo/1)
 
