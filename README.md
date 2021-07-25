@@ -187,10 +187,10 @@ Related:
   - [PrivacyTools.io Recommended Browser Add-ons](https://privacytools.io/browsers/#addons)
 
 ### Antivirus
-Windows defender should be more than enough for virus protection, combined with [Malwarebytes](https://www.malwarebytes.com/) as an extra precaution. You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. Even, you don't need any Anti-Virus if you browse the internet safely. Also install [PrivacyTools.io Recommended Browser Add-ons](#add-ons).
+Use [Malwarebytes](https://www.malwarebytes.com/). You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. Even, you don't need an Anti-Virus if you browse the internet safely. **Common sense is enough**. Install [PrivacyTools.io Recommended Browser Add-ons](#add-ons) for additional protection while browsing the internet.
 
-* [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests  
-* [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines  
+* [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests
+* [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
 * [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
 * [The Case Against Anti-Virus Software](https://wiki.ameliorated.info/doku.php?id=antivirus) - AME Wiki
  
