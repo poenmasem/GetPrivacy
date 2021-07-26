@@ -89,9 +89,11 @@ Related:
 
 - Windows 10 
   - [No Internet Access Fix](https://t.me/AMEGuides/41)
+
   - **(Ignore this if you have downloaded the ISO file from AME website)**
     - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2)
       - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
+
     - [No Internet Access Fix](https://t.me/AMEGuides/41)
   
   - Support: [AME Telegram Group](https://t.me/joinchat/CR-xFBGQKVt7HPZKgZfbxg)
