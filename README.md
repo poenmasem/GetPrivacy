@@ -131,7 +131,7 @@ Related:
 ## 6. Installing Drivers
 * [Snappy Driver Installer](https://www.snappy-driver-installer.org/) - Snappy Driver Installer Origin(SDIO). This method is the easiest method of installing drivers.
 **You should search for Touchpad and Graphics Drivers in your manufacturer website to prevent errors.**
-  - [Themes](https://sourceforge.net/projects/snappy-driver-installer/files/Themes/) (The best themes are Atardecer, Coax, and Lite)
+  - [Discussion Group](https://t.me/SDI_Origin) - Telegram
 
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVCleanstall lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
