@@ -33,7 +33,7 @@
   - [Torrent Client](#torrent-client)
   - [Sharing](#sharing)
   - [Other Tools](#other-tools)
-- [6. To Do Steps - AME](#6-to-do-steps---ame)
+- [6. To Do - AME](#6-to-do---ame)
 - [7. For other Softwares](#7-for-other-softwares)
 - [Useful Links](#useful-links)
 - [Gaming Tweaks](#-gaming-tweaks)
@@ -366,7 +366,7 @@ Related:
 
 - [WinCDEmu](https://wincdemu.sysprogs.org/) - WinCDEmu is an open-source CD/DVD/BD emulator - a tool that allows you to mount optical disc images by simply clicking on them in Windows Explorer.
 
-## 6. To Do Steps - AME
+## 6. To Do - AME
 
 - [After AME Windows 10](https://t.me/Windows10AMEPowerUser) - Telegram Channel
 
