@@ -225,7 +225,7 @@ Portmaster is a free and open-source application that puts you back in charge ov
 ### Archiver
 - [7zip](https://www.7-zip.org/) - 7-Zip is a utility program to help you extract compressed files and create your own compressed files in several different formats.
 
-- [PeaZip](https://peazip.github.io/) - PeaZip is a ree Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager.
+- [PeaZip](https://peazip.github.io/) - PeaZip is a free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager.
 
 ### Password Manager
 - **[PrivacyTools.io](https://privacytools.io/software/passwords/)**
