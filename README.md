@@ -167,7 +167,7 @@ Related:
      - Office 2016/365/2019
        - [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/page-61) - (Use option 'T' to disable telemetry)
 
-      - Office 2010/2013
+      - Office 2013
         - [Turning off Telemetry reg file](https://web.archive.org/web/20201127230546/https://www.sharepointevolved.com/2015/08/31/turning-off-telemetry-for-office-2013/)
 
 * #### PDF:
