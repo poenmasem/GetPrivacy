@@ -8,16 +8,16 @@
 (Note: Windows is a [Closed Source](https://www.coredna.com/blogs/comparing-open-closed-source-software) OS. So, this guide gives you a privacy & security focused setup, as much as possible.)
 
 ## Contents
-- [Download Windows ISO File](#1-download-windows-iso-file)
-- [Removing Unnecessary Things from ISO File](#2-removing-unnecessary-things-from-iso-file)
-- [Burning to USB](#3-burning-to-usb)
-- [Installation Settings](#4-installation-settings)
-  - [Post-Installation](#post-installation)
-- [Activation](#5-activation)
-- [Installing Drivers](#6-installing-drivers)
-- [Software](#7-software)
+- [1. Download Windows ISO File](#1-download-windows-iso-file)
+- [2. Removing Unnecessary Things from ISO File](#2-removing-unnecessary-things-from-iso-file)
+- [3. Burning to USB](#3-burning-to-usb)
+- [4. Installation Settings](#4-installation-settings)
+- [5. Post-Installation](#5-post-installation)
+  - [Activation](#activation)
+  - [Installing Drivers](#installing-drivers)
   - [Office Suite](#office-suite)
     - [PDF](#pdf)
+  - [DNS](#dns)
   - [Browser](#browser)
     - [Add-ons](#add-ons)
   - [Antivirus](#antivirus)
@@ -33,7 +33,8 @@
   - [Torrent Client](#torrent-client)
   - [Sharing](#sharing)
   - [Other Tools](#other-tools)
-- [For other Softwares](#8-for-other-softwares)
+- [6. To Do Steps - AME](#6-to-do-steps---ame)
+- [7. For other Softwares](#7-for-other-softwares)
 - [Useful Links](#useful-links)
 - [Gaming Tweaks](#-gaming-tweaks)
 - [Issues](#issues)
@@ -83,7 +84,7 @@ Related:
 - Windows 10 LTSC
   - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
 
-### Post-Installation
+## 5. Post-Installation
 - Windows 8 **(If you didn't modify the ISO file using the Tweak Pack)**
   - [Windows 8 Setup Script](https://github.com/farag2/Windows-8.1-Setup-Script)  
 
@@ -111,7 +112,7 @@ Related:
   - [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)&nbsp;[AME]
   - [AME Guides](https://t.me/AMEGuides)
 
-## 5. Activation
+### Activation
 **(Ignore this if you have already activated your Windows Permanently)(If you are switching to another Windows Version/Edition then follow this)**
 
 * Windows 7:
@@ -128,7 +129,7 @@ Related:
 * Windows 10 / LTSC  
 [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) (Microsoft Activation Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 
-## 6. Installing Drivers
+### Installing Drivers
 * [Snappy Driver Installer](https://www.snappy-driver-installer.org/) - Snappy Driver Installer Origin(SDIO). This method is the easiest method of installing drivers.
 **You should search for Touchpad and Graphics Drivers in your manufacturer website to prevent errors.**
   - [Discussion Group](https://t.me/SDI_Origin) - Telegram
@@ -144,8 +145,6 @@ Related:
 
 Related:  
 [AME - Getting Started](https://wiki.ameliorated.info/doku.php?id=getting_started)
-
-## 7. Software
 
 ### Office Suite
 * [OnlyOffice](https://www.onlyoffice.com/) - OnlyOffice, stylized as ONLYOFFICE, is a free software office suite developed by Ascensio System SIA, a company headquartered in Riga, Latvia.
@@ -188,6 +187,9 @@ Related:
 
   - [NightPDF](https://github.com/libreloya/NightPDF) - Dark Mode PDF Reader built using Electron and PDF.js.
 
+### DNS
+- **[Privacytools.io](https://privacytools.io/providers/dns/)**
+
 ### Browser
 * [Firefox](https://firefox.com/) - Firefox is fast, reliable, open-source, and respects your privacy. Don't forget to adjust the settings according to our recommendations.
   - [arkenfox user.js (formerly ghacks-user.js)](https://github.com/arkenfox/user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
@@ -203,10 +205,10 @@ Related:
 
 * #### Add-ons:
 
-  - [PrivacyTools.io Recommended Browser Add-ons](https://privacytools.io/browsers/#addons)
+  - [PrivacyTools.io](https://privacytools.io/browsers/#addons)
 
 ### Antivirus
-Use [Malwarebytes](https://www.malwarebytes.com/). You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. Even, you don't need an Anti-Virus if you browse the internet safely. **Common sense is enough**. Install [PrivacyTools.io Recommended Browser Add-ons](#add-ons) for additional protection while browsing the internet.
+Use [Malwarebytes](https://www.malwarebytes.com/). You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. Even, you don't need an Anti-Virus if you browse the internet safely. **Common sense is enough**. Install [PrivacyTools.io's Recommended Browser Add-ons](#add-ons) for additional protection while browsing the internet.
 
 * [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests
 * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
@@ -219,6 +221,14 @@ Simple tool to configure Windows Filtering Platform (WFP) which can configure ne
 
 * [Portmaster](https://safing.io/)  
 Portmaster is a free and open-source application that puts you back in charge over all your computer's network connections.
+
+### Archiver
+- [7zip](https://www.7-zip.org/) - 7-Zip is a utility program to help you extract compressed files and create your own compressed files in several different formats.
+
+- [PeaZip](https://peazip.github.io/) - PeaZip is a ree Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager.
+
+### Password Manager
+- **[PrivacyTools.io](https://privacytools.io/software/passwords/)**
 
 ### Graphics
 - [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
@@ -356,7 +366,11 @@ Related:
 
 - [WinCDEmu](https://wincdemu.sysprogs.org/) - WinCDEmu is an open-source CD/DVD/BD emulator - a tool that allows you to mount optical disc images by simply clicking on them in Windows Explorer.
 
-## 8. For other Softwares
+## 6. To Do Steps - AME
+
+- [After AME Windows 10](https://t.me/Windows10AMEPowerUser) - Telegram Channel
+
+## 7. For other Softwares
 - [PrivacyTools](https://www.privacytools.io/) - PrivacyTools (also known as privacytools.io) provides knowledge and tools to protect your privacy against global mass surveillance' and is a well-known website in the Education & Reference category.
 
 - [Privacy Tools List](https://privacytoolslist.com/) - Top privacy tools, apps and services.
