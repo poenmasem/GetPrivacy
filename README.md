@@ -402,6 +402,8 @@ Related:
 
 - [Snopyta](https://snopyta.org/)
 
+- [Dark Matter 404](https://darkmatter404.neocities.org/ProjectMariana/index.html)
+
 - [Test Your Privacy](https://web.archive.org/web/20210112175807if_/https://www.reddit.com/r/privacytoolsIO/comments/bia6sx/test_your_privacy/)
 
 # 🎮 Gaming Tweaks
