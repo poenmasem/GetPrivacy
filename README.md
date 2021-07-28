@@ -92,7 +92,7 @@ Related:
   - [No Internet Access Fix](https://t.me/AMEGuides/41)
 
   - **(Ignore this if you have downloaded the ISO file from AME website)**
-    - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2)
+    - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2) [See [Note](#installing-drivers)]
       - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
 
     - [No Internet Access Fix](https://t.me/AMEGuides/41)
@@ -130,7 +130,9 @@ Related:
 [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) (Microsoft Activation Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 
 ### Installing Drivers
-* [Snappy Driver Installer](https://www.snappy-driver-installer.org/) - Snappy Driver Installer Origin(SDIO). This method is the easiest method of installing drivers.
+> Note: Reports say that [Snappy Driver Installer](https://sdi-tool.org/)(SDI) contains adware. Not sure about this.
+
+* [Snappy Driver Installer Origin](https://www.snappy-driver-installer.org/) - Snappy Driver Installer Origin(SDIO). This method is the easiest method of installing drivers.
 **You should search for Touchpad and Graphics Drivers in your manufacturer website to prevent errors.**
   - [Discussion Group](https://t.me/SDI_Origin) - Telegram
 
