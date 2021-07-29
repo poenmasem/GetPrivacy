@@ -8,33 +8,34 @@
 (Note: Windows is a [Closed Source](https://www.coredna.com/blogs/comparing-open-closed-source-software) OS. So, this guide gives you a privacy & security focused setup, as much as possible.)
 
 ## Contents
-- [Download Windows ISO File](#1-download-windows-iso-file)
-- [Removing Unnecessary Things from ISO File](#2-removing-unnecessary-things-from-iso-file)
-- [Burning to USB](#3-burning-to-usb)
-- [Installation Settings](#4-installation-settings)
-- [Post-Installation](#5-post-installation)
+- [Download Windows ISO File](#download-windows-iso-file)
+- [Removing Unnecessary Things from ISO File](#removing-unnecessary-things-from-iso-file)
+- [Burning to USB](#burning-to-usb)
+- [Installation Settings](#installation-settings)
+- [Post-Installation](#post-installation)
   - [Activation](#activation)
   - [Installing Drivers](#installing-drivers)
-  - [Office Suite](#office-suite)
-    - [PDF](#pdf)
-  - [DNS](#dns)
-  - [Browser](#browser)
-    - [Add-ons](#add-ons)
-  - [Antivirus](#antivirus)
-  - [Firewall](#firewall)
-  - [Graphics](#graphics)
-  - [Media Player](#media-player)
-  - [Video](#video)
-    - [Video Editor](#video-editor)
-  - [Audio](#audio)
-  - [File Converter](#file-converter)
-  - [Drive Tools](#drive-tools)
-  - [Uninstaller](#uninstaller)
-  - [Torrent Client](#torrent-client)
-  - [Sharing](#sharing)
-  - [Other Tools](#other-tools)
-  - [To Do - AME](#6-to-do---ame)
-- [For other Softwares](#7-for-other-softwares)
+  - [Softwares](#softwares)
+    - [Office Suite](#office-suite)
+      - [PDF](#pdf)
+    - [DNS](#dns)
+    - [Browser](#browser)
+      - [Add-ons](#add-ons)
+    - [Antivirus](#antivirus)
+    - [Firewall](#firewall)
+    - [Graphics](#graphics)
+    - [Media Player](#media-player)
+    - [Video](#video)
+      - [Video Editor](#video-editor)
+    - [Audio](#audio)
+    - [File Converter](#file-converter)
+    - [Drive Tools](#drive-tools)
+    - [Uninstaller](#uninstaller)
+    - [Torrent Client](#torrent-client)
+    - [Sharing](#sharing)
+    - [Other Tools](#other-tools)
+  - [To Do - AME](#to-do---ame)
+- [For other Softwares](#for-other-softwares)
 - [Useful Links](#useful-links)
 - [Gaming Tweaks](#-gaming-tweaks)
 - [Issues](#issues)
@@ -148,6 +149,7 @@ Related:
 Related:  
 [AME - Getting Started](https://wiki.ameliorated.info/doku.php?id=getting_started)
 
+## Softwares
 ### Office Suite
 * [OnlyOffice](https://www.onlyoffice.com/) - OnlyOffice, stylized as ONLYOFFICE, is a free software office suite developed by Ascensio System SIA, a company headquartered in Riga, Latvia.
 
@@ -165,7 +167,7 @@ Related:
   - Activation
     - [KMS Script by abbodi1406](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - A batch script(s) to automate the activation of supported Windows and Office products using local KMS server emulator or an external server.
   
-   - Disable Telemetry (Also apply it on every update)
+   - Disable Telemetry **(Also apply it on every update)**
      - Office 2016/365/2019
        - [OfficeRTool](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/page-61) - (Use option 'T' to disable telemetry)
 
