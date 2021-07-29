@@ -287,7 +287,7 @@ Related:
 
 ### Audio
 * [Audacity](https://www.audacityteam.org/)  - Audacity is a free and open-source digital audio editor and recording application software, available for Windows, macOS, Linux, and other Unix-like operating systems.
-  > Audacity has been acquired by Muse Group, which also owns MuseScore and Ultimate Guitar
+  > Audacity has been acquired by Muse Group, which also owns MuseScore and Ultimate Guitar. You can choose any one of the forks below.
   - [Audacity fork by Cookie Engineer](https://github.com/cookiengineer/audacity) - Audacity Fork without any Sentry Telemetry or Crash Reporting.
 
   - [Tenacity](https://github.com/tenacityteam/tenacity) - FLOSS Audacity Fork - No telemetry, crash reports and other shenanigans like that!
