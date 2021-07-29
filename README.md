@@ -8,11 +8,11 @@
 (Note: Windows is a [Closed Source](https://www.coredna.com/blogs/comparing-open-closed-source-software) OS. So, this guide gives you a privacy & security focused setup, as much as possible.)
 
 ## Contents
-- [1. Download Windows ISO File](#1-download-windows-iso-file)
-- [2. Removing Unnecessary Things from ISO File](#2-removing-unnecessary-things-from-iso-file)
-- [3. Burning to USB](#3-burning-to-usb)
-- [4. Installation Settings](#4-installation-settings)
-- [5. Post-Installation](#5-post-installation)
+- [Download Windows ISO File](#1-download-windows-iso-file)
+- [Removing Unnecessary Things from ISO File](#2-removing-unnecessary-things-from-iso-file)
+- [Burning to USB](#3-burning-to-usb)
+- [Installation Settings](#4-installation-settings)
+- [Post-Installation](#5-post-installation)
   - [Activation](#activation)
   - [Installing Drivers](#installing-drivers)
   - [Office Suite](#office-suite)
@@ -33,14 +33,14 @@
   - [Torrent Client](#torrent-client)
   - [Sharing](#sharing)
   - [Other Tools](#other-tools)
-- [6. To Do - AME](#6-to-do---ame)
-- [7. For other Softwares](#7-for-other-softwares)
+  - [To Do - AME](#6-to-do---ame)
+- [For other Softwares](#7-for-other-softwares)
 - [Useful Links](#useful-links)
 - [Gaming Tweaks](#-gaming-tweaks)
 - [Issues](#issues)
 - [Contact](#contact)
 
-## 1. Download Windows ISO File
+## Download Windows ISO File
 
 * Windows 7 (Recommended Edition: Home Premium)
   - [Digital river mirror](https://digitalrivermirror.com/)
@@ -58,21 +58,21 @@
 Related:
 - [Windows 10 LTSC](https://azimstech.github.io/2018-10-05-windows-10-enterprise-ltsc-2019/) - Debloated from a lot of rubbish. Only receives Security updates, rather than 'feature' updates.
 
-## 2. Removing Unnecessary Things from ISO File
+## Removing Unnecessary Things from ISO File
 * Windows 7
   * [Integrate7 Script](https://www.wincert.net/forum/topic/14001-integrate7-script-%E2%80%93-automatically-download-and-slipstream-all-updates-up-to-052021/) - It gets Windows 7 ISO image (any language, any architecture), download all post-SP1 updates directly from Microsoft site and create new bootable Windows 7 ISO (with all updates integrated). Removes all bloatware (Telemetry, Diagnostics, Windows Defender).
 
 * Windows 8
   * [W8.1-Tweak-Pack](https://www.ntlite.com/community/index.php?threads/clangers-download-page.1272/post-10855) - They include deleting registry entries and tasks folders, they are not a component removal but you can remove components using NTLite. You can also use [MSMG Toolkit](https://msmgtoolkit.in/) to modify the ISO file as per your needs. But, you can directly use Windows 10 AME instead of getting Windows 8 ISO file and doing this big work.
 
-## 3. Burning to USB
+## Burning to USB
 * [Rufus](https://rufus.ie/en/) - Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc. Rufus is fast. For instance it's about twice as fast as UNetbootin, Universal USB Installer.
   - [Tutorial](https://softwarekeep.com/help-center/how-to-create-a-bootable-usb-using-rufus)
 
 * [Ventoy](https://www.ventoy.net/en/index.html) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files. With ventoy, you don't need to format the disk again and again, you just need to copy the iso file to the USB drive and boot it.
   - [Tutorial](https://www.howto-connect.com/ventoy-create-bootable-usb-easily-with-iso-multi-boot-support/)
 
-## 4. Installation Settings
+## Installation Settings
 - In Windows 7 & 8, turn off, skip any options that require an Internet Connection or sending data.
 
 - Windows 10
@@ -84,7 +84,7 @@ Related:
 - Windows 10 LTSC
   - [AME Guide Video](https://ameliorated.info/video/Windows_Initial_Startup.mp4)
 
-## 5. Post-Installation
+## Post-Installation
 - Windows 8 **(If you didn't modify the ISO file using the Tweak Pack)**
   - [Windows 8 Setup Script](https://github.com/farag2/Windows-8.1-Setup-Script)  
 
@@ -368,11 +368,11 @@ Related:
 
 - [WinCDEmu](https://wincdemu.sysprogs.org/) - WinCDEmu is an open-source CD/DVD/BD emulator - a tool that allows you to mount optical disc images by simply clicking on them in Windows Explorer.
 
-## 6. To Do - AME
+### To Do - AME
 
 - [After AME Windows 10](https://t.me/Windows10AMEPowerUser) - Telegram Channel
 
-## 7. For other Softwares
+## For other Softwares
 - [PrivacyTools](https://www.privacytools.io/) - PrivacyTools (also known as privacytools.io) provides knowledge and tools to protect your privacy against global mass surveillance' and is a well-known website in the Education & Reference category.
 
 - [Privacy Tools List](https://privacytoolslist.com/) - Top privacy tools, apps and services.
