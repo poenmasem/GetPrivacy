@@ -21,6 +21,7 @@
     - [DNS](#dns)
     - [Browser](#browser)
       - [Add-ons](#add-ons)
+    - [VPN](#vpn)
     - [Antivirus](#antivirus)
     - [Firewall](#firewall)
     - [Graphics](#graphics)
@@ -198,8 +199,6 @@ Related:
 * [Firefox](https://firefox.com/) - Firefox is fast, reliable, open-source, and respects your privacy. Don't forget to adjust the settings according to our recommendations.
   - [arkenfox user.js (formerly ghacks-user.js)](https://github.com/arkenfox/user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
 
-* [LibreWolf](https://librewolf-community.gitlab.io/) - A fork of Firefox, focused on privacy, security, and freedom.
-
 * [Ungoogled Chomium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency.
   * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
 
@@ -210,6 +209,22 @@ Related:
 * #### Add-ons:
 
   - [PrivacyTools.io](https://privacytools.io/browsers/#addons)
+
+Related:  
+https://unixsheikh.com/articles/choose-your-browser-carefully.html
+
+### VPN
+Free VPNs collect a lot of data and sell it to third party companies for their profit. Paid VPNs are better than Free VPNs in connection speed and security, but we can't guarantee that whether they log data or not. VPNs cannot encrypt data outside of the connection between your device and the VPN server. VPN providers can see and modify your traffic the same way your ISP could. And there is no way to verify a VPN provider's "no logging" policies in any way.
+
+A VPN may still be useful to you in a variety of scenarios, such as:
+- Hiding your traffic from only your Internet Service Provider.
+- Hiding your downloads (such as torrents) from your ISP and anti-piracy organizations.
+- Bypassing Geo-Blocked content.
+
+Reference:  
+- https://gist.github.com/joepie91/5a9909939e6ce7d09e29
+- https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html
+- https://privacytools.io/providers/vpn/
 
 ### Antivirus
 Use [Malwarebytes](https://www.malwarebytes.com/). You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. Even, you don't need an Anti-Virus if you browse the internet safely. **Common sense is enough**. Install [PrivacyTools.io's Recommended Browser Add-ons](#add-ons) for additional protection while browsing the internet.
