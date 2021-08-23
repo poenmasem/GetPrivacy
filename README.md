@@ -227,12 +227,12 @@ Reference:
 - https://privacytools.io/providers/vpn/
 
 ### Antivirus
-Use [Malwarebytes](https://www.malwarebytes.com/). You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. Even, you don't need an Anti-Virus if you browse the internet safely. **Common sense is enough**. Install [PrivacyTools.io's Recommended Browser Add-ons](#add-ons) for additional protection while browsing the internet.
+You do not need paid antiviruses, nor is it recommended to pirate any paid antiviruses. Even, you don't need an Anti-Virus if you browse the internet safely, and get files only from trusted people. **Common sense is better than using an AV**. Install [PrivacyTools.io's Recommended Browser Add-ons](#add-ons) for additional protection while browsing the internet.
 
+* [The Case Against Anti-Virus Software](https://wiki.ameliorated.info/doku.php?id=antivirus) - AME Wiki
+* [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
 * [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests
 * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
-* [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
-* [The Case Against Anti-Virus Software](https://wiki.ameliorated.info/doku.php?id=antivirus) - AME Wiki
  
 ### Firewall
 * [Simplewall](https://www.henrypp.org/product/simplewall)  
