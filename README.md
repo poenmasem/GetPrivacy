@@ -147,7 +147,7 @@ Related:
 * Other:
   * [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7, since the Integrate7 Script integrates it into the ISO)
 
-  * [Visual C++ Redistributable Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+  * [Visual C++ Redistributable Runtimes All-in-One](https://github.com/abbodi1406/vcredist)
   
   - [DirectX 12 Support in AME](https://www.youtube.com/watch?v=g9kYWmQrk_U)
 
