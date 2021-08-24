@@ -243,7 +243,8 @@ You do not need paid anti-viruses, nor is it recommended to pirate any paid anti
 * [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
 * [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests
 * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
- 
+* [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (Not needed for Windows 10 AME)
+
 ### File Encryption
 
 - [PrivacyTools.io](https://privacytools.io/software/encryption-tools/)
