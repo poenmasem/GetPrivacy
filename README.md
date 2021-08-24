@@ -25,10 +25,13 @@
     - [Antivirus](#antivirus)
     - [File Encryption](#file-encryption)
     - [Firewall](#firewall)
+    - [Archiver](#archiver)
+    - [Password Manager](#password-manager)
     - [Graphics](#graphics)
     - [Media Player](#media-player)
     - [Video](#video)
       - [Video Editor](#video-editor)
+      - [Subtitle](#subtitle)
     - [Audio](#audio)
     - [File Converter](#file-converter)
     - [Drive Tools](#drive-tools)
@@ -201,7 +204,13 @@ Related:
   - [arkenfox user.js (formerly ghacks-user.js)](https://github.com/arkenfox/user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
 
 * [Ungoogled Chomium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency.
-  * [chromium-web-store](https://github.com/NeverDecaf/chromium-web-store) - Allows adding extensions from chrome web store on ungoogled-chromium. Also adds semi-automatic extension updating.
+  - Hardening Guide  
+  https://anonymousplanet.org/guide.html#ungoogled-chromium-1
+
+  - Installing Extensions  
+  Download the extension file manually, open chrome://extensions and drag to it. Or, extract the extension to a folder and switch on Developer mode in opera://extensions and use "Load unpacked extension".
+
+    - If you want to automate this process, you will need to “re-google” some of the Browser by allowing access to Chrome Extension Store. This can be done using this extension: https://github.com/NeverDecaf/chromium-web-store
 
 * [Epic Browser](https://www.epicbrowser.com/) - Epic is a private, secure web browser that blocks ads, trackers, fingerprinting, cryptomining, ultrasound signaling and more.
 
@@ -281,10 +290,6 @@ Related:
 - [Audacious](https://audacious-media-player.org/) - Audacious is a free and open-source audio player software with a focus on low resource use, high audio quality, and support for a wide range of audio formats.
 
 ### Video
-- [MKVToolNix](https://mkvtoolnix.download/) - MKVToolNix is a small collection of tools (mkvmerge, mkvinfo, mkvextract, mkvpropedit and mmg) that allows you to manipulate Matroska (MKV) files in several ways.
-
-- [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - Subtitle Edit is an open source subtitle editor and converter which supports 200+ formats.
-
 - #### Video Editor:
   - [Olive Video Editor](https://www.olivevideoeditor.org/) - Olive is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
   
@@ -297,6 +302,17 @@ Related:
   - [Shotcut ](https://shotcut.org/) - Shotcut is a free and open-source cross-platform video editing application for FreeBSD, Linux, macOS and Windows.
 
   - [Expressive Suite](https://github.com/ExpressiveSuite) - A professional graphics software suite made for designers and animators alike.
+
+- #### Subtitle:
+  - [SubSync - Subtitle Speech Synchronizer](https://subsync.online/) - Automatic movie subtitle synchronization tool.
+
+  - [Subtitld](https://subtitld.jonata.org/) - Subtitld is a software to create, transcribe and edit subtitles, in SRT, SSA, TTML, SBV, DFXP, VTT, XML, SCC and SAMI. Add, remove, slice subtitles easily. Generate videos with the subtitle burned in.
+
+  - [Penguin Subtitle Player](https://github.com/carsonip/Penguin-Subtitle-Player/) - Subtitle Player for Adding Subtitles to Online Videos.
+
+  - [MKVToolNix](https://mkvtoolnix.download/) - MKVToolNix is a small collection of tools (mkvmerge, mkvinfo, mkvextract, mkvpropedit and mmg) that allows you to manipulate Matroska (MKV) files in several ways.
+
+  - [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - Subtitle Edit is an open source subtitle editor and converter which supports 200+ formats.
 
 Related:  
 * [Awesome Privacy](https://github.com/pluja/awesome-privacy#video-and-audio) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -372,7 +388,7 @@ Related:
 ### Sharing
 - [KDE Connect](https://kdeconnect.kde.org/) - KDE Connect is a multi platform application developed by KDE, which facilitates communications and data transfer between devices wirelessly over local network.
 
-- [Libreware(Telegram Channel) - Sharing Tool List](https://t.me/Libreware/680)
+- [Libreware(Telegram Channel) - Sharing Tools List](https://t.me/Libreware/680)
 
 ### Other Tools
 - [Winaero Tweaker](https://winaero.com/) - Winaero is a website hosting freeware tweaking tools for Microsoft Windows.
