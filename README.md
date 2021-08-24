@@ -145,7 +145,7 @@ Related:
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVCleanstall lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
 * Other:
-  * [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7, since the Integrate7 Script integrates it into the ISO)
+  * [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7, since the Integrate7 Script integrates it into the ISO File)
 
   * [Visual C++ Redistributable Runtimes All-in-One](https://github.com/abbodi1406/vcredist)
   
