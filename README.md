@@ -62,7 +62,7 @@
     - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
 
 Related:
-- [Windows 10 LTSC](https://azimstech.github.io/2018-10-05-windows-10-enterprise-ltsc-2019/) - Debloated from a lot of rubbish. Only receives Security updates, rather than 'feature' updates.
+- [Windows 10 LTSC](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Debloated from a lot of rubbish. Only receives Security updates, rather than 'feature' updates.
 
 ## Removing Unnecessary Things from ISO File
 * Windows 7
