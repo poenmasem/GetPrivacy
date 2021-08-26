@@ -114,9 +114,13 @@ Related:
 
     - [W10Privacy](https://www.w10privacy.de/english-home/) (Only for advanced users) - W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
 
+- For all OS:
+  - [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (Not needed for Windows 10 AME if it is installed using their ISO File)
+
 - Other
   - [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)&nbsp;[AME]
-  - [AME Guides](https://t.me/AMEGuides)
+  - [AME Guides](https://t.me/AMEGuides) (Telegram Channel)
+  - [wolfgang's blog](https://notthebe.ee/Windows10.html)
 
 ### Activation
 **(Ignore this if you have already activated your Windows Permanently)(If you are switching to another Windows Version/Edition then follow this)**
@@ -145,7 +149,7 @@ Related:
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVCleanstall lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
 * Other:
-  * [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7 since the Integrate7 Script integrates it into the Windows 7 ISO File)
+  * [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7 and Windows 10 AME since the respective script installs it)
 
   * [Visual C++ Redistributable Runtimes All-in-One](https://github.com/abbodi1406/vcredist)
   
@@ -243,7 +247,6 @@ You do not need paid anti-viruses, nor is it recommended to pirate any paid anti
 * [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
 * [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests
 * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
-* [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 
 ### File Encryption
 
@@ -410,7 +413,6 @@ Related:
 ### To Do - AME
 
 - [After AME Windows 10](https://t.me/Windows10AMEPowerUser) - Telegram Channel
-- [wolfgang's blog](https://notthebe.ee/Windows10.html)
 
 ### For other Softwares
 - [PrivacyTools](https://www.privacytools.io/) - PrivacyTools (also known as privacytools.io) provides knowledge and tools to protect your privacy against global mass surveillance' and is a well-known website in the Education & Reference category.
