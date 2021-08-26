@@ -59,7 +59,6 @@
   - [TechBench](https://tb.rg-adguard.net/public.php)  
   - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
   - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped-down Windows 10 ISO file and follow this guide, or else strip down Windows 10 yourself by following this guide.
-    - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
 
 Related:
 - [Windows 10 LTSC](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Debloated from a lot of rubbish. Only receives Security updates, rather than 'feature' updates.
