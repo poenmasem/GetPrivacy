@@ -97,7 +97,7 @@ Related:
 - Windows 10 
   - [No Internet Access Fix](https://t.me/AMEGuides/41)
 
-  - **(Ignore this if you have downloaded the ISO file from AME website)**
+  - **(Ignore this if you have installed Windows 10 using AME ISO File)**
     - [AME Documentation](https://wiki.ameliorated.info/doku.php?id=documentation_20h2) [See [Note](#installing-drivers)]
       - (NEW) [Windows 10 Ameliorator Wizard](https://t.me/amereleases/45)
 
@@ -114,7 +114,7 @@ Related:
 
     - [W10Privacy](https://www.w10privacy.de/english-home/) (Only for advanced users) - W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
 
-- For all OS:
+- **Common**
   - [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (Not needed for Windows 10 (If Installed using AME ISO File))
 
 - Other
