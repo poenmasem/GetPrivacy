@@ -58,7 +58,7 @@
 * Windows 10
   - [TechBench](https://tb.rg-adguard.net/public.php)  
   - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
-  - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped-down Windows 10 ISO file and go to Step 5 or else continue to Step 3.
+  - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped-down Windows 10 ISO file and follow this guide, or else strip down Windows 10 yourself by following this guide.
     - Windows 10 AME aims at delivering a stable, non-intrusive yet fully functional build of Windows 10 to anyone, who requires the Windows operating system natively.
 
 Related:
@@ -115,7 +115,7 @@ Related:
     - [W10Privacy](https://www.w10privacy.de/english-home/) (Only for advanced users) - W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
 
 - For all OS:
-  - [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (Not needed for Windows 10 AME if it is installed using their ISO File)
+  - [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (Not needed for Windows 10 (If Installed using AME ISO File))
 
 - Other
   - [How To Install Updates](https://wiki.ameliorated.info/doku.php?id=system_updates)&nbsp;[AME]
@@ -149,7 +149,7 @@ Related:
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVCleanstall lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
 * Other:
-  * [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7 and Windows 10 AME since the respective script installs it)
+  * [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7 and Windows 10 since the respective script installs it)
 
   * [Visual C++ Redistributable Runtimes All-in-One](https://github.com/abbodi1406/vcredist)
   
