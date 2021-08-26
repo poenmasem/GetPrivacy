@@ -145,7 +145,7 @@ Related:
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVCleanstall lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
 * Other:
-  * [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7, since the Integrate7 Script integrates it into the ISO File)
+  * [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7 since the Integrate7 Script integrates it into the Windows 7 ISO File)
 
   * [Visual C++ Redistributable Runtimes All-in-One](https://github.com/abbodi1406/vcredist)
   
@@ -237,13 +237,13 @@ Reference:
 - https://privacytools.io/providers/vpn/
 
 ### Antivirus
-You do not need paid anti-viruses, nor is it recommended to pirate any paid anti-viruses. Even, you don't need an Anti-Virus if you browse the internet safely, and get files only from trusted people. **Common sense is better than using an AV**. Install [PrivacyTools.io's Recommended Browser Add-ons](#add-ons) for additional protection while browsing the internet.
+You do not need paid anti-viruses, nor is it recommended to pirate any paid anti-viruses. Even, you don't need an Anti-Virus if you browse the internet safely, and get files only from trusted people. **Common sense is better than using an AV**. Use [Malwarebytes](https://www.malwarebytes.com/) as an extra precaution. Install [PrivacyTools.io's Recommended Browser Add-ons](#add-ons) for additional protection while browsing on the internet.
 
 * [The Case Against Anti-Virus Software](https://wiki.ameliorated.info/doku.php?id=antivirus) - AME Wiki
 * [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
 * [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests
 * [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
-* [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (Not needed for Windows 10 AME)
+* [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
 
 ### File Encryption
 
@@ -410,6 +410,7 @@ Related:
 ### To Do - AME
 
 - [After AME Windows 10](https://t.me/Windows10AMEPowerUser) - Telegram Channel
+- [wolfgang's blog](https://notthebe.ee/Windows10.html)
 
 ### For other Softwares
 - [PrivacyTools](https://www.privacytools.io/) - PrivacyTools (also known as privacytools.io) provides knowledge and tools to protect your privacy against global mass surveillance' and is a well-known website in the Education & Reference category.
