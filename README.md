@@ -459,6 +459,8 @@ Related:
 
 - [Snopyta](https://snopyta.org/)
 
+- [Fake "privacy" tools not worth using](https://www.reddit.com/r/privacytoolsIO/comments/cx8d8v/fake_privacy_tools_not_worth_using/)
+
 - [Dark Matter 404](https://darkmatter404.neocities.org/ProjectMariana/index.html)
 
 - [Leak Test Tools List](https://privacytoolslist.com/#leak-test-tools)
