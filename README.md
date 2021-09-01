@@ -58,7 +58,7 @@
 * Windows 10
   - [TechBench](https://tb.rg-adguard.net/public.php)  
   - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
-  - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped-down Windows 10 ISO file and follow this guide, or else strip down Windows 10 yourself by following this guide.
+  - **Windows 10 Ameliorated** - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped-down Windows 10 ISO file and follow this guide, or else strip down Windows 10 yourself by following this guide.
     - Limitations:
       - You cannot install any APPX packages in AME, because all Windows Store dependencies have been completely ripped out.
       - You cannot create a new user, because of the OS’s inability to re-deploy APPX applications when logging in to a new user for the first time.
