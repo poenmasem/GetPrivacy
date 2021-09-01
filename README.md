@@ -273,7 +273,7 @@ Portmaster is a free and open-source application that puts you back in charge ov
 ### Graphics
 - [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
 
-- [IrfanView](https://www.irfanview.com/) - IrfanView is an image viewer, editor, organiser and converter program for Microsoft Windows.
+- [IrfanView](https://www.irfanview.com/) (Closed Source) - IrfanView is an image viewer, editor, organiser and converter program for Microsoft Windows.
 
 - [ImageMagick](https://www.imagemagick.org/) - ImageMagick is a free and open-source cross-platform software suite for displaying, creating, converting, modifying, and editing raster images.
   - [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick(fork of ImageMagick) is a free open source, modern and powerful software suite for processing images.
@@ -421,6 +421,10 @@ Related:
 - [Sandboxie Plus](https://sandboxie-plus.com/) - Sandboxie is a sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the windows registry. An isolated virtual environment allows controlled testing of untrusted programs and web surfing.
 
 - [WinCDEmu](https://wincdemu.sysprogs.org/) - WinCDEmu is an open-source CD/DVD/BD emulator - a tool that allows you to mount optical disc images by simply clicking on them in Windows Explorer.
+
+- [EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+
+- [AutoHotkey](https://www.autohotkey.com/) - AutoHotkey is an open-source utility and can automate almost anything by sending keystrokes and mouse clicks.
 
 ### To Do - AME
 
