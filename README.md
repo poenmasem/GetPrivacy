@@ -147,7 +147,7 @@ Related:
 > Note: Reports say that [Snappy Driver Installer](https://sdi-tool.org/)(SDI) contains adware. Not sure about this.
 
 * [Snappy Driver Installer Origin](https://www.snappy-driver-installer.org/) - Snappy Driver Installer Origin(SDIO). This method is the easiest method of installing drivers.
-**You should search for Touchpad and Graphics Drivers in your manufacturer website to prevent errors.**
+**You should search for Touchpad and Graphics Drivers in your manufacturer website to prevent any error.**
   - [Discussion Group](https://t.me/SDI_Origin) - Telegram
 
   - Nvidia Graphics Driver strip-down Guide:
