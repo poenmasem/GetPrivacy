@@ -403,6 +403,8 @@ Related:
 - [Libreware(Telegram Channel) - Sharing Tools List](https://t.me/Libreware/680)
 
 ### Other Tools
+- [OpenHashTab](https://github.com/namazso/OpenHashTab) - OpenHashTab is a shell extension for conveniently calculating and checking file hashes from file properties.
+
 - [Winaero Tweaker](https://winaero.com/) - Winaero is a website hosting freeware tweaking tools for Microsoft Windows.
 
 - System Information:
