@@ -150,8 +150,6 @@ Related:
 **You should search for Touchpad and Graphics Drivers in your manufacturer website to prevent errors.**
   - [Discussion Group](https://t.me/SDI_Origin) - Telegram
 
-* [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVCleanstall lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
-
 * Other:
   - [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7 and Windows 10 since the respective script installs it)
 
@@ -338,10 +336,6 @@ Related:
   - [Audacium](https://github.com/SartoxOnlyGNU/audacium) - Audacity fork without Telemetry and with new features.
 
 * [Ardour](https://ardour.org/) - Ardour is a hard disk recorder and digital audio workstation application that runs on Linux, macOS, FreeBSD and Microsoft Windows.
-
-* [Ocenaudio](https://www.ocenaudio.com/) - Ocenaudio is a cross-platform audio editor with an impressive set of features. It is available for Windows, Linux and Mac OS, and free to download and use.
-
-* [Wavosaur](https://www.wavosaur.com/) - Wavosaur is a cool free sound editor, audio editor, wav editor software for editing, processing and recording sounds, wav and mp3 files.
 
 Related:  
 * [Awesome Privacy](https://github.com/pluja/awesome-privacy#video-and-audio) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
