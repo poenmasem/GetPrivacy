@@ -150,6 +150,11 @@ Related:
 **You should search for Touchpad and Graphics Drivers in your manufacturer website to prevent errors.**
   - [Discussion Group](https://t.me/SDI_Origin) - Telegram
 
+  - Nvidia Graphics Driver strip-down Guide:
+    - [How to Download, Extract and Install drivers without telemetry with a batch file](https://www.reddit.com/r/nvidia/comments/5jj6re/how_to_download_extract_and_install_drivers/)
+
+    - [[GUIDE] How to decrapify latest NVidia drivers](https://www.reddit.com/r/pcmasterrace/comments/8p095x/guide_how_to_decrapify_latest_nvidia_drivers/)
+
 * Other:
   - [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7 and Windows 10 since the respective script installs it)
 
