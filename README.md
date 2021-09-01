@@ -247,12 +247,11 @@ Reference:
 - https://privacytools.io/providers/vpn/
 
 ### Antivirus
-You do not need paid anti-viruses, nor is it recommended to pirate any paid anti-viruses. Even, you don't need an Anti-Virus if you browse the internet safely, and get files only from trusted people. **Common sense is better than using an AV**. Use [Malwarebytes](https://www.malwarebytes.com/) as an extra precaution if you want. Install [PrivacyTools.io's Recommended Browser Add-ons](#add-ons) for additional protection while browsing on the internet.
+You do not need paid anti-viruses, nor is it recommended to pirate any paid anti-viruses. **Common sense is better than using an AV**. Use [ClamAV](https://www.clamav.net/) as an extra precaution. Install [PrivacyTools.io's Recommended Browser Add-ons](#add-ons) for additional protection while browsing on the internet.
 
-* [The Case Against Anti-Virus Software](https://wiki.ameliorated.info/doku.php?id=antivirus) - AME Wiki
-* [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
-* [av-comparatives.org](https://www.av-comparatives.org/) - Antivirus protection tests
-* [VirusTotal.com](https://www.virustotal.com/) - Web service that scans files and URLs with various anti-virus engines
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html#anti-virus-software)
+- [The Case Against Anti-Virus Software](https://wiki.ameliorated.info/doku.php?id=antivirus) - AME Wiki
+- [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
 
 ### File Encryption
 
