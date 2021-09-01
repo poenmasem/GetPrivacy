@@ -135,7 +135,7 @@ Related:
   - Activator [Requires Login]
     * [Daz Loader (Original)](https://forums.mydigitallife.net/threads/windows-loader-download.58464/) - Permanent Activation (For MBR disks)
 
-    * [Rearm Wizard](https://forums.mydigitallife.net/threads/rearm-wizard-the-premier-rearm-solution-for-windows-7-and-office-2013.43861/) - Auto Trial Reset Script (For GPT disks)
+    * [Rearm Wizard](https://forums.mydigitallife.net/threads/rearm-wizard-the-premier-rearm-solution-for-windows-7-and-office-2013.43861/) - Auto Trial Reset Script (For MBR & GPT disks)
 
 * Windows 8  
 [KMS Script by abbodi1406](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - A batch script(s) to automate the activation of supported Windows and Office products using local KMS server emulator or an external server.
