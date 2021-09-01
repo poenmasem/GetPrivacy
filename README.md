@@ -460,7 +460,7 @@ Related:
 
 - [Dark Matter 404](https://darkmatter404.neocities.org/ProjectMariana/index.html)
 
-- [Leak Tools List](https://privacytoolslist.com/#leak-test-tools)
+- [Leak Test Tools List](https://privacytoolslist.com/#leak-test-tools)
 
 # 🎮 Gaming Tweaks
 
