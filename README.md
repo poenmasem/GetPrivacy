@@ -221,8 +221,6 @@ Related:
 
     - If you want to automate this process, you will need to “re-google” some of the Browser by allowing access to Chrome Extension Store. This can be done using this extension: https://github.com/NeverDecaf/chromium-web-store
 
-* [Epic Browser](https://www.epicbrowser.com/) - Epic is a private, secure web browser that blocks ads, trackers, fingerprinting, cryptomining, ultrasound signaling and more.
-
 * [Tor Browser](https://www.torproject.org/) - Tor Browser is your choice if you need an extra layer of anonymity. It's a modified version of Firefox ESR, which comes with pre-installed privacy add-ons, encryption, and an advanced proxy.
 
 * #### Add-ons:
