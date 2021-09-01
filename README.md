@@ -152,11 +152,11 @@ Related:
 * [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) - NVCleanstall lets you customize the NVIDIA GeForce Driver package by removing components that you don't need (or want). This not only keeps things tidy, but also lowers disk usage and memory footprint.
 
 * Other:
-  * [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7 and Windows 10 since the respective script installs it)
+  - [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7 and Windows 10 since the respective script installs it)
 
-  * [Visual C++ Redistributable Runtimes All-in-One](https://github.com/abbodi1406/vcredist)
-  
   - [DirectX 12 Support in AME](https://www.youtube.com/watch?v=g9kYWmQrk_U)
+
+  - [Visual C++ Redistributable Runtimes All-in-One](https://github.com/abbodi1406/vcredist)
 
 Related:  
 [AME - Getting Started](https://wiki.ameliorated.info/doku.php?id=getting_started)
@@ -449,6 +449,8 @@ Related:
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/)
 
 - [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
+
+- [Computer Security and Privacy](https://www.billdietrich.me/ComputerSecurityPrivacy.html)
 
 - [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
 
