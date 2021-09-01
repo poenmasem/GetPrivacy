@@ -370,7 +370,7 @@ Related:
 - [Ciano](https://github.com/robertsanseries/ciano) - A multimedia file converter focused on simplicity. Convert videos, music and pictures with the best possible experience.
 
 ### Drive Tools
-- [Macrium Reflect Free](https://www.macrium.com/reflectfree) - Macrium Reflect Free allows you to back up your entire computer and schedule backups.
+- [Macrium Reflect Free](https://www.macrium.com/reflectfree) (Closed Source) - Macrium Reflect Free allows you to back up your entire computer and schedule backups.
 
 - [Clonezilla](https://clonezilla.org/) - Clonezilla is a free and open-source disk cloning, disk imaging, data recovery, and deployment computer program
 
@@ -406,16 +406,17 @@ Related:
 ### Other Tools
 - [OpenHashTab](https://github.com/namazso/OpenHashTab) - OpenHashTab is a shell extension for conveniently calculating and checking file hashes from file properties.
 
-- [Winaero Tweaker](https://winaero.com/) - Winaero is a website hosting freeware tweaking tools for Microsoft Windows.
+- [Flameshot](https://flameshot.org/) - Flameshot is a lightweight, open-source utility that provides an easy way to take screenshots of your desktop and highlight important aspects, add text, arrows and upload them for a quick share.
+
+- [Winaero Tweaker](https://winaero.com/) (Closed Source) - Winaero is a website hosting freeware tweaking tools for Microsoft Windows.
 
 - System Information:
-  - [HWiNFO](https://www.hwinfo.com/) - HWiNFO is a free system information tool for Windows that gives a quick overview, as well as a detailed look, at hardware components.
-
-  - [HiBit System Information](http://hibitsoft.ir/SystemInformation.html) - HiBit System Information is a powerful system information utility that gathers important data on the computer's hardware components.
 
   - [SystemInfo](https://github.com/CherryPill/system_info) - SystemInfo enables you to view information about the hardware components of your computer.
 
-  - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU-Z is a freeware that gathers information on some of the main devices of your system.
+  - [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/) - Libre Hardware Monitor, a fork of Open Hardware Monitor, is free software that can monitor the temperature sensors, fan speeds, voltages, load and clock speeds of your computer.
+
+  - [SidebarDiagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - A simple sidebar for Windows desktop that displays hardware diagnostic information.
 
 - [Sandboxie Plus](https://sandboxie-plus.com/) - Sandboxie is a sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. It creates a sandbox-like isolated operating environment in which applications can be run or installed without permanently modifying local & mapped drives or the windows registry. An isolated virtual environment allows controlled testing of untrusted programs and web surfing.
 
