@@ -59,6 +59,10 @@
   - [TechBench](https://tb.rg-adguard.net/public.php)  
   - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
   - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped-down Windows 10 ISO file and follow this guide, or else strip down Windows 10 yourself by following this guide.
+    - Limitations:
+      - You cannot install any APPX packages in AME, because all Windows Store dependencies have been completely ripped out.
+      - You cannot create a new user, because of the OS’s inability to re-deploy APPX applications when logging in to a new user for the first time.
+      - You cannot automatically install and update drivers via Windows Update, because Windows update doesn’t exist in AME anymore.
 
 Related:
 - [Windows 10 LTSC](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Debloated from a lot of rubbish. Only receives Security updates, rather than 'feature' updates.
@@ -200,7 +204,8 @@ Related:
   - [NightPDF](https://github.com/libreloya/NightPDF) - Dark Mode PDF Reader built using Electron and PDF.js.
 
 ### DNS
-- **[Privacytools.io](https://privacytools.io/providers/dns/)**
+- [Privacytools.io](https://privacytools.io/providers/dns/)
+- [Darkmatter404](https://darkmatter404.neocities.org/ProjectMariana/Configuration/dnscrypt-proxy.html)
 
 ### Browser
 * [Firefox](https://firefox.com/) - Firefox is fast, reliable, open-source, and respects your privacy. Don't forget to adjust the settings according to our recommendations.
@@ -211,7 +216,7 @@ Related:
   https://anonymousplanet.org/guide.html#ungoogled-chromium-1
 
   - Installing Extensions  
-  Download the extension file manually, open chrome://extensions and drag to it. Or, extract the extension to a folder and switch on Developer mode in opera://extensions and use "Load unpacked extension".
+    Download the extension file manually, open chrome://extensions and drag to it. Or, extract the extension to a folder and switch on Developer mode in opera://extensions and use "Load unpacked extension".
 
     - If you want to automate this process, you will need to “re-google” some of the Browser by allowing access to Chrome Extension Store. This can be done using this extension: https://github.com/NeverDecaf/chromium-web-store
 
@@ -357,6 +362,10 @@ Related:
 
   - [Tutorial](https://amiaopensource.github.io/ffmprovisr/)
 
+- [StaxRip](https://github.com/staxrip/staxrip) - StaxRip is a multiformat video encoding application. With StaxRip you can easily convert your DVD's and many more formats into MPEG-4 like XviD, x264/H264/AVC, x265/H265/HEVC, VP9.
+
+- [VidCoder](https://vidcoder.net/) - VidCoder is an open-source DVD/Blu-ray ripping and video transcoding application for Windows. It uses HandBrake as its encoding engine.
+
 - [MystiQ](https://github.com/swl-x/MystiQ) - MystiQ is a GUI for FFmpeg, a powerful media converter.
 
 - [Ciano](https://github.com/robertsanseries/ciano) - A multimedia file converter focused on simplicity. Convert videos, music and pictures with the best possible experience.
@@ -455,7 +464,7 @@ Related:
 
 - [Milkbrain's Basic Windows Optimization Guide](https://docs.google.com/document/d/112uc7XnMA4QFTKF6i4iFdXfar6b5YlLwrdF9N-Z5TcI/edit)
 
-- [Milkbrain's Advanced FPS Boost Guide](https://docs.google.com/document/d/1XsGfW1EjjW7rutzZ8tpX7t3FvLc7WF4rjtfC-77Louw/edit)
+  - [Milkbrain's Advanced FPS Boost Guide](https://docs.google.com/document/d/1XsGfW1EjjW7rutzZ8tpX7t3FvLc7WF4rjtfC-77Louw/edit)
 
 - [Danske’s Guide](https://docs.google.com/document/d/18uPEXJC5LSto8x9X_GteSI58sfQLCfamDG1HNHJWrQU/edit)
 
