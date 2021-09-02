@@ -115,7 +115,7 @@ Related:
 - Windows 10 LTSC (Tweaking Tools)
     - [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A powerful PowerShell module for fine-tuning and tweaking Windows 10.
 
-    - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) - O&O ShutUp10 provides users with a simple means of customizing the privacy options in Windows 10 and thus decide which data collection options will stay enabled and which should be blocked.
+    - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) (Powerful but Closed source) - O&O ShutUp10 provides users with a simple means of customizing the privacy options in Windows 10 and thus decide which data collection options will stay enabled and which should be blocked.
 
     - [Privatezilla](https://github.com/builtbybel/privatezilla) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
 
