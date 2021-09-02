@@ -66,6 +66,8 @@
       - You cannot create a new user, because of the OS’s inability to re-deploy APPX applications when logging in to a new user for the first time.
       - You cannot automatically install and update drivers via Windows Update, because Windows update doesn’t exist in AME anymore.
 
+- **SEE [Issues](#issues)**
+
 Related:
 - [Windows 10 LTSC](https://www.reddit.com/r/Piracy/comments/8pfnun/how_to_download_and_install_windows_10_ltsb/) - Debloated from a lot of rubbish. Only receives Security updates, rather than 'feature' updates.
 
@@ -494,7 +496,7 @@ Related:
 - [BDO Ultimate Performance Guide](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit)
 
 ## Issues
-Still finding a better & an user-friendly script to strip-down Windows 8 ISO File. But as I said, Windows 10 AME is a better choice than stripping-down(using **any** method) and using Windows 8.
+Still finding a better & an user-friendly script to strip-down Windows 8 ISO File. But as I said, Windows 10 AME is a better choice than stripping-down(using **any** method) and using Windows 8. (Note: Windows 7 & 8 is not safe to use anymore. But they can be used if you do things in it safely. Please be careful. Mainly Avoid **using cracked programs, unsafe mails**, unsafe websites(use these [add-ons](#add-ons) that secure you from many nasty things)), and using Internet Explorer. But in future, many programs will stop supporting Win 7 & 8.)
 
 ## Contact
 - Instagram: [@tom_dko](https://www.instagram.com/tom_dko/)
