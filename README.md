@@ -5,7 +5,7 @@
 
 - For Windows 11, the guide will be updated after it's stable version release.
 
-(Note: Windows is a [Closed Source](https://www.coredna.com/blogs/comparing-open-closed-source-software) OS. So, this guide gives you a privacy & security focused setup, as much as possible.)
+(Note: Windows is a [Closed Source](https://www.coredna.com/blogs/comparing-open-closed-source-software) OS. So, this guide gives you a privacy & security focused setup as much as possible.)
 
 ## Contents
 - [Download Windows ISO File](#download-windows-iso-file)
@@ -25,6 +25,7 @@
     - [Antivirus](#antivirus)
     - [File Encryption](#file-encryption)
     - [Firewall](#firewall)
+    - [Email](#email)
     - [Archiver](#archiver)
     - [Password Manager](#password-manager)
     - [Graphics](#graphics)
@@ -133,9 +134,13 @@ Related:
   - [How to Check if a Disk Uses GPT or MBR](https://www.howtogeek.com/245610/how-to-check-if-a-disk-uses-gpt-or-mbr-and-how-to-convert-between-the-two/)
   
   - Activator [Requires Login]
-    * [Daz Loader (Original)](https://forums.mydigitallife.net/threads/windows-loader-download.58464/) - Permanent Activation (For MBR disks)
+    - Permanent Activation:
+      - [Daz Loader (Original)](https://forums.mydigitallife.net/threads/windows-loader-download.58464/) (For MBR disks)
 
-    * [Rearm Wizard](https://forums.mydigitallife.net/threads/rearm-wizard-the-premier-rearm-solution-for-windows-7-and-office-2013.43861/) - Auto Trial Reset Script (For MBR & GPT disks)
+      - [EzWindSLIC](https://github.com/ExeCsrss/EzWindSLIC) - An activator for Windows 7 for UEFI-GPT systems, based on WindSLIC but this one is more user friendly. (For GPT disks)
+        - [Support Thread](https://forums.mydigitallife.net/threads/tool-ezwindslic-easily-activate-windows-7-vista-sp1-server-2008-2019-on-uefi-gpt.83357/)
+
+    - [Rearm Wizard](https://forums.mydigitallife.net/threads/rearm-wizard-the-premier-rearm-solution-for-windows-7-and-office-2013.43861/) - Auto Trial Reset Script (For all disks)
 
 * Windows 8  
 [KMS Script by abbodi1406](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - A batch script(s) to automate the activation of supported Windows and Office products using local KMS server emulator or an external server.
@@ -156,11 +161,13 @@ Related:
     - [[GUIDE] How to decrapify latest NVidia drivers](https://www.reddit.com/r/pcmasterrace/comments/8p095x/guide_how_to_decrapify_latest_nvidia_drivers/)
 
 * Other:
-  - [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7 and Windows 10 since the respective script installs it)
+  - [DirectX 11](https://www.microsoft.com/en-in/download/details.aspx?id=8109) (Not needed for Windows 7 & 10 since the respective script installs it)
 
   - [DirectX 12 Support in AME](https://www.youtube.com/watch?v=g9kYWmQrk_U)
 
   - [Visual C++ Redistributable Runtimes All-in-One](https://github.com/abbodi1406/vcredist)
+  
+  - [.NET Framework Latest Version](https://dotnet.microsoft.com/download)
 
 Related:  
 [AME - Getting Started](https://wiki.ameliorated.info/doku.php?id=getting_started)
@@ -264,6 +271,10 @@ Simple tool to configure Windows Filtering Platform (WFP) which can configure ne
 * [Portmaster](https://safing.io/)  
 Portmaster is a free and open-source application that puts you back in charge over all your computer's network connections.
 
+### Email
+- Email Providers - [PrivacyTools.io](https://privacytools.io/providers/email/)
+- Email Clients - [PrivacyTools.io](https://privacytools.io/software/email/)
+
 ### Archiver
 - [7zip](https://www.7-zip.org/) - 7-Zip is a utility program to help you extract compressed files and create your own compressed files in several different formats.
 
@@ -285,7 +296,7 @@ Portmaster is a free and open-source application that puts you back in charge ov
 Related:
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy#photo-editing-and-management) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
-- [Awesome Windows](https://github.com/Awesome-Windows/Awesome#graphics) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares, as much as possible)
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome#graphics) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as possible)
 
 ### Media Player
 - [VLC](https://www.videolan.org/) - A free and open-source, portable, cross-platform media player software and streaming media server developed by the VideoLAN project.
@@ -326,7 +337,7 @@ Related:
 Related:  
 * [Awesome Privacy](https://github.com/pluja/awesome-privacy#video-and-audio) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome#video) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares, as much as possible)
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome#video) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as possible)
 
 - [Awesome Alternatives](https://codeberg.org/LinuxCafeFederation/awesome-alternatives#audio-video-editing-software)
 
@@ -344,7 +355,7 @@ Related:
 Related:  
 * [Awesome Privacy](https://github.com/pluja/awesome-privacy#video-and-audio) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
-* [Awesome Windows](https://github.com/Awesome-Windows/Awesome#audio) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares, as much as possible)
+* [Awesome Windows](https://github.com/Awesome-Windows/Awesome#audio) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as possible)
 
 ### File Converter
 - [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs. Can also be used for compressing videos.
@@ -437,7 +448,7 @@ Related:
 
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 
-- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares, as much as possible)
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows. (Choose FOSS softwares as much as possible)
 
 - [FOSS Adobe Alternatives](https://twitter.com/XdanielArt/status/1259859435607994370/photo/1)
 
