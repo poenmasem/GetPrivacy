@@ -437,6 +437,8 @@ Related:
 
 - [AutoHotkey](https://www.autohotkey.com/) - AutoHotkey is an open-source utility and can automate almost anything by sending keystrokes and mouse clicks.
 
+- [Android Tool](https://github.com/fast-geek/Android-Tool) - Android Tool is a powerful and beautiful program, created to make popular adb and fastboot commands easier to use. A dark theme, intuitive interface and other features.
+
 ### To Do - AME
 
 - [After AME Windows 10](https://t.me/Windows10AMEPowerUser) - Telegram Channel
