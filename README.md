@@ -119,7 +119,7 @@ Related:
 
     - [Privatezilla](https://github.com/builtbybel/privatezilla) - Privatezilla integrates the most critical Windows 10 privacy settings and allows you to quickly perform a privacy check against these settings.
 
-    - [W10Privacy](https://www.w10privacy.de/english-home/) (Only for advanced users) - W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
+    - [W10Privacy](https://www.w10privacy.de/english-home/) (Only for advanced users) (Closed Source) - W10Privacy is a free anti-spy tool for Windows 10, designed by German developer Bernd Schuster.
 
 - **Common**
   - [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. (Not needed for Windows 10 (If Installed using AME ISO File))
