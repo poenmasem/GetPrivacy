@@ -174,7 +174,7 @@ Related:
 Related:  
 [AME - Getting Started](https://wiki.ameliorated.info/doku.php?id=getting_started)
 
-## Disk Encryption
+### Disk Encryption
 
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html#windows-host-os-encryption)
 
@@ -468,6 +468,8 @@ Related:
   - [NoGoolag](https://t.me/NoGoolag) (Telegram Channel)
   - [NoGoolag Group](https://t.me/joinchat/nMOOE4YJPDFhZjZk) (Telegram Group)
 
+- [CoolGithubProjects](https://t.me/r_CoolGithubProjects)
+
 ## Useful Links
 - [Reddit /r/privacy/wiki](https://www.reddit.com/r/privacy/wiki/index)
 
@@ -475,9 +477,9 @@ Related:
 
 - [Spyware Watchdog](https://spyware.neocities.org/) - Good collection of articles about what is spyware and what not.
 
-- [Computer Security and Privacy](https://www.billdietrich.me/ComputerSecurityPrivacy.html)
-
 - [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
+
+- [Computer Security and Privacy](https://www.billdietrich.me/ComputerSecurityPrivacy.html)
 
 - [Snopyta](https://snopyta.org/)
 
