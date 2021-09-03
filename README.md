@@ -190,7 +190,7 @@ Related:
 
 - [MS Office](https://www.office.com/) **(Closed Source)** - **(If you are forced to use MS Office, follow this(This process will disable telemetry as much as possible))**
   - Download and install MS Office (Account sign-in is not necessary after installation)
-    - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
+    - [TechBench](https://tb.rg-adguard.net/public.php)
     - [Office Tool Plus](https://github.com/YerongAI/Office-Tool)  
 
   - Activation
