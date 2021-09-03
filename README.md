@@ -14,7 +14,8 @@
 - [Installation Settings](#installation-settings)
 - [Post-Installation](#post-installation)
   - [Activation](#activation)
-  - [Installing Drivers](#installing-drivers)
+  - [Drivers](#drivers)
+  - [Disk Encryption](#disk-encryption)
   - [Softwares](#softwares)
     - [Office Suite](#office-suite)
       - [PDF](#pdf)
@@ -54,12 +55,11 @@
   - [Digital river mirror](https://digitalrivermirror.com/)
 
 * Windows 8
-  - [TechBench](https://tb.rg-adguard.net/public.php) 
-  - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
+  - [TechBench](https://tb.rg-adguard.net/public.php)
 
 * Windows 10
-  - [TechBench](https://tb.rg-adguard.net/public.php)  
-  - [Heidoc.net](https://heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
+  - [TechBench](https://tb.rg-adguard.net/public.php)
+
   - **Windows 10 Ameliorated** - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped-down Windows 10 ISO file and follow this guide, or else strip down Windows 10 yourself by following this guide.
     - AME Limitations:
       - You cannot install any APPX packages in AME, because all Windows Store dependencies have been completely ripped out.
@@ -150,7 +150,7 @@ Related:
 * Windows 10 / Windows 10 LTSC  
 [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts) (Microsoft Activation Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 
-### Installing Drivers
+### Drivers
 > Note: Reports say that [Snappy Driver Installer](https://sdi-tool.org/)(SDI) contains adware. Not sure about this.
 
 * [Snappy Driver Installer Origin](https://www.snappy-driver-installer.org/) - Snappy Driver Installer Origin(SDIO). This method is the easiest method of installing drivers.
@@ -173,6 +173,10 @@ Related:
 
 Related:  
 [AME - Getting Started](https://wiki.ameliorated.info/doku.php?id=getting_started)
+
+## Disk Encryption
+
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html#windows-host-os-encryption)
 
 ## Softwares
 ### Office Suite
