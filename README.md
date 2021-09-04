@@ -294,6 +294,8 @@ Portmaster is a free and open-source application that puts you back in charge ov
 
 - [IrfanView](https://www.irfanview.com/) (Closed Source) - IrfanView is an image viewer, editor, organiser and converter program for Microsoft Windows.
 
+- [NeeView](https://bitbucket.org/neelabo/neeview/wiki/Home) - NeeView is an open source image viewer and editor that displays two images simultaneously like pages from a book.
+
 - [ImageMagick](https://www.imagemagick.org/) - ImageMagick is a free and open-source cross-platform software suite for displaying, creating, converting, modifying, and editing raster images.
   - [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick(fork of ImageMagick) is a free open source, modern and powerful software suite for processing images.
 
