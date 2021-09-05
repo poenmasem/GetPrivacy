@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" manifest="index.appcache">
 <head>
   <!-- Server Side Cache -->
   <include expiration='7d' path='**.css' />
-  <include expiration='30d' path='**.png' />
-  <include expiration='30d' path='**.jpg' />
-  <include expiration='30d' path='**.jpeg' />
-  <meta http-equiv="Cache-Control" content="public, max-age=3600"/> 
+  <include expiration='30d' path='/background/**.png' />
+  <include expiration='30d' path='/background/**.jpg' />
+  <include expiration='30d' path='/background/**.jpeg' />
+  <meta http-equiv="Cache-Control" content="public, max-age=3600"/>
 
   <meta charset="utf-8">
   <meta name="description" content="Windows is your, Setup It as your Wish and Remove all Unnecessary things from it">
