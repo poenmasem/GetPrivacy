@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://getprivacy.cf/</loc>
+    <lastmod>2021-09-05T19:13:41+05:30</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0000</priority>
+  </url>
+  <url>
+    <loc>https://getprivacy.cf/sample.html</loc>
+    <lastmod>2021-09-05T18:19:48+05:30</lastmod>
+    <changefreq>always</changefreq>
+    <priority>1.0000</priority>
+  </url>
+</urlset>
