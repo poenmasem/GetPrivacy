@@ -1,3 +1,7 @@
-/style.css
+*.css
+  cache-control: public
+  cache-control: max-age=86400
+
+*.webp
   cache-control: public
   cache-control: max-age=86400
