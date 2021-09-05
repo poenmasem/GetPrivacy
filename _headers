@@ -1,7 +1,19 @@
-*.css
+/*.css
   cache-control: public
   cache-control: max-age=86400
 
-*.webp
+/background/*.webp
+  cache-control: public
+  cache-control: max-age=86400
+
+/pages/*.css
+  cache-control: public
+  cache-control: max-age=86400
+
+/fonts/*.woff
+  cache-control: public
+  cache-control: max-age=86400
+
+/fonts/*.woff2
   cache-control: public
   cache-control: max-age=86400
