@@ -2,6 +2,10 @@
   cache-control: public
   cache-control: max-age=604800
 
+/favicon.ico
+  cache-control: public
+  cache-control: max-age=604800
+
 /background/*.webp
   cache-control: public
   cache-control: max-age=604800
@@ -10,10 +14,18 @@
   cache-control: public
   cache-control: max-age=604800
 
-/fonts/*.woff
+/pages/src/*.webp
   cache-control: public
   cache-control: max-age=604800
-
-/fonts/*.woff2
+  
+/pages/src/*.png
+  cache-control: public
+  cache-control: max-age=604800
+  
+/pages/src/*.jpeg
+  cache-control: public
+  cache-control: max-age=604800
+  
+/pages/src/*.jpg
   cache-control: public
   cache-control: max-age=604800
