@@ -4,11 +4,11 @@
 
 /favicon.ico
   cache-control: public
-  cache-control: max-age=604800
+  cache-control: max-age=2592000
 
 /background/*.webp
   cache-control: public
-  cache-control: max-age=604800
+  cache-control: max-age=2592000
 
 /pages/*.css
   cache-control: public
@@ -16,16 +16,16 @@
 
 /pages/src/*.webp
   cache-control: public
-  cache-control: max-age=604800
+  cache-control: max-age=2592000
   
 /pages/src/*.png
   cache-control: public
-  cache-control: max-age=604800
+  cache-control: max-age=2592000
   
 /pages/src/*.jpeg
   cache-control: public
-  cache-control: max-age=604800
+  cache-control: max-age=2592000
   
 /pages/src/*.jpg
   cache-control: public
-  cache-control: max-age=604800
+  cache-control: max-age=2592000
