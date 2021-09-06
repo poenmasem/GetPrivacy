@@ -51,6 +51,8 @@
 
 ## Download Windows ISO File
 
+(After downloading the ISO File, compare it's hash value with the value listed on the respective website using certutil command or [OpenHashTab](https://github.com/namazso/OpenHashTab))
+
 * Windows 7 (Recommended Edition: Home Premium)
   - [Digital river mirror](https://digitalrivermirror.com/)
 
@@ -167,7 +169,7 @@ Related:
 
   - [DirectX 12 Support in AME](https://www.youtube.com/watch?v=g9kYWmQrk_U)
 
-  - [Visual C++ Redistributable Runtimes All-in-One](https://github.com/abbodi1406/vcredist)
+  - [Visual C++ Redistributable Runtimes All-in-One](https://github.com/abbodi1406/vcredist) (Not needed for Windows 10 since the respective script installs it)
   
   - [.NET Framework Latest Version](https://dotnet.microsoft.com/download)
 
