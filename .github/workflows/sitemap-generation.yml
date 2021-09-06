@@ -22,7 +22,9 @@ jobs:
       id: sitemap
       uses: cicirello/generate-sitemap@v1
       with:
-        base-url-path: https://actions.cicirello.org/
+        base-url-path: https://getprivacy.cf/
+        sitemap-format: xml
+        include-pdf: false
     
     - name: Output stats
       run: |
