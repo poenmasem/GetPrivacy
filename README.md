@@ -283,6 +283,8 @@ Portmaster is a free and open-source application that puts you back in charge ov
 - Email Providers - [PrivacyTools.io](https://privacytools.io/providers/email/)
   - [NOTE](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused/blob/main/Truth.png)
   - [Encrypted Instant Messengers](https://privacytools.io/software/real-time-communication/)
+  - [/r/EmailPrivacy](https://www.reddit.com/r/emailprivacy/wiki/index)
+    - [OTHER MESSAGING SYSTEMS](https://www.reddit.com/r/emailprivacy/wiki/index#wiki_other_messaging_systems) 
 
 - Email Clients - [PrivacyTools.io](https://privacytools.io/software/email/)
 
