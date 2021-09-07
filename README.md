@@ -62,7 +62,7 @@
 * Windows 10
   - [TechBench](https://tb.rg-adguard.net/public.php)
 
-  - **Windows 10 Ameliorated** - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped-down Windows 10 ISO file and follow this guide, or else strip down Windows 10 yourself by following this guide.
+  - **Windows 10 Ameliorated** - You can directly go to the [AME website](https://ameliorated.info/) and download the stripped-down Windows 10 ISO file(Only available for 64-bit) and follow this guide, or else strip down Windows 10 yourself by following this guide.
     - AME Limitations:
       - You cannot install any APPX packages in AME, because all Windows Store dependencies have been completely ripped out.
       - You cannot create a new user, because of the OS’s inability to re-deploy APPX applications when logging in to a new user for the first time.
@@ -281,6 +281,9 @@ Portmaster is a free and open-source application that puts you back in charge ov
 
 ### Email
 - Email Providers - [PrivacyTools.io](https://privacytools.io/providers/email/)
+  - [NOTE](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused/blob/main/Truth.png)
+  - [Encrypted Instant Messengers](https://privacytools.io/software/real-time-communication/)
+
 - Email Clients - [PrivacyTools.io](https://privacytools.io/software/email/)
 
 ### Archiver
@@ -482,8 +485,6 @@ Related:
 - [DigDeeper](https://digdeeper.neocities.org/) - A website about Software Privacy. Lots of great articles.
 
 - [Computer Security and Privacy](https://www.billdietrich.me/ComputerSecurityPrivacy.html)
-
-- [Snopyta](https://snopyta.org/)
 
 - [Fake "privacy" tools not worth using](https://www.reddit.com/r/privacytoolsIO/comments/cx8d8v/fake_privacy_tools_not_worth_using/)
 
