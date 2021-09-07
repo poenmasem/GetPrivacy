@@ -188,10 +188,10 @@ Related:
 ### Browser
 * [Firefox](https://firefox.com/) - Firefox is fast, reliable, open-source, and respects your privacy. Don't forget to adjust the settings according to our recommendations.
   - [arkenfox user.js (formerly ghacks-user.js)](https://github.com/arkenfox/user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
+  - [Hardening Guide](https://ebin.city/~werwolf/posts/firefox-hardening-guide/)
 
 * [Ungoogled Chomium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency.
-  - Hardening Guide  
-  https://anonymousplanet.org/guide.html#ungoogled-chromium-1
+  - [Hardening Guide](https://anonymousplanet.org/guide.html#ungoogled-chromium-1)
 
   - Installing Extensions  
     Download the extension file manually, open chrome://extensions and drag to it. Or, extract the extension to a folder and switch on Developer mode in opera://extensions and use "Load unpacked extension".
