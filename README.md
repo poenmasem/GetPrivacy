@@ -53,7 +53,7 @@
 
 (After downloading the ISO File, compare it's hash value with the value listed on the respective website using certutil command or [OpenHashTab](https://github.com/namazso/OpenHashTab))
 
-* Windows 7 (Recommended Edition: Home Premium)
+* Windows 7 (Use Home Premium because it is lightweight & faster than other Windows 7 editions)
   - [Digital river mirror](https://digitalrivermirror.com/)
 
 * Windows 8
