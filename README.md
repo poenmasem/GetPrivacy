@@ -281,13 +281,12 @@ Portmaster is a free and open-source application that puts you back in charge ov
 
 ### Email
 - Email Providers - [PrivacyTools.io](https://privacytools.io/providers/email/)
-  - [NOTE](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused/blob/main/Truth.png)
-  - [/r/EmailPrivacy](https://www.reddit.com/r/emailprivacy/wiki/index)
-    - [OTHER MESSAGING SYSTEMS](https://www.reddit.com/r/emailprivacy/wiki/index#wiki_other_messaging_systems) 
+  - [NOTE](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused/blob/main/pages/src/Truth.png)
+  - [Cybertoolbank](https://cybertoolbank.cc/emails.html)
+  - [OTHER MESSAGING SYSTEMS](https://www.reddit.com/r/emailprivacy/wiki/index#wiki_other_messaging_systems) 
+  - [Encrypted Instant Messengers](https://privacytools.io/software/real-time-communication/)
 
 - Email Clients - [PrivacyTools.io](https://privacytools.io/software/email/)
-
-- **[Encrypted Instant Messengers](https://privacytools.io/software/real-time-communication/)**
 
 ### Archiver
 - [7zip](https://www.7-zip.org/) - 7-Zip is a utility program to help you extract compressed files and create your own compressed files in several different formats.
