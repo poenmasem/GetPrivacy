@@ -17,15 +17,15 @@
   - [Drivers](#drivers)
   - [Disk Encryption](#disk-encryption)
   - [Softwares](#softwares)
-    - [Office Suite](#office-suite)
-      - [PDF](#pdf)
     - [DNS](#dns)
     - [Browser](#browser)
       - [Add-ons](#add-ons)
+    - [Firewall](#firewall)
     - [VPN](#vpn)
     - [Antivirus](#antivirus)
     - [File Encryption](#file-encryption)
-    - [Firewall](#firewall)
+    - [Office Suite](#office-suite)
+      - [PDF](#pdf)
     - [Email](#email)
     - [Archiver](#archiver)
     - [Password Manager](#password-manager)
@@ -181,6 +181,63 @@ Related:
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html#windows-host-os-encryption)
 
 ## Softwares
+### DNS
+- [Privacytools.io](https://privacytools.io/providers/dns/)
+- [Darkmatter404](https://darkmatter404.neocities.org/ProjectMariana/Configuration/dnscrypt-proxy.html)
+
+### Browser
+* [Firefox](https://firefox.com/) - Firefox is fast, reliable, open-source, and respects your privacy. Don't forget to adjust the settings according to our recommendations.
+  - [arkenfox user.js (formerly ghacks-user.js)](https://github.com/arkenfox/user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
+
+* [Ungoogled Chomium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency.
+  - Hardening Guide  
+  https://anonymousplanet.org/guide.html#ungoogled-chromium-1
+
+  - Installing Extensions  
+    Download the extension file manually, open chrome://extensions and drag to it. Or, extract the extension to a folder and switch on Developer mode in opera://extensions and use "Load unpacked extension".
+
+    - If you want to automate this process, you will need to “re-google” some of the Browser by allowing access to Chrome Extension Store. This can be done using this extension: https://github.com/NeverDecaf/chromium-web-store
+
+* [Tor Browser](https://www.torproject.org/) - Tor Browser is your choice if you need an extra layer of anonymity. It's a modified version of Firefox ESR, which comes with pre-installed privacy add-ons, encryption, and an advanced proxy.
+
+* #### Add-ons:
+
+  - [PrivacyTools.io](https://privacytools.io/browsers/#addons)
+
+Related:  
+https://unixsheikh.com/articles/choose-your-browser-carefully.html
+
+### Firewall
+* [Simplewall](https://www.henrypp.org/product/simplewall)  
+Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
+
+* [Portmaster](https://safing.io/)  
+Portmaster is a free and open-source application that puts you back in charge over all your computer's network connections.
+
+### VPN
+Free VPNs collect a lot of data and sell it to third party companies for their profit. Paid VPNs are better than Free VPNs in connection speed and security, but we can't guarantee that whether they log data or not. VPNs cannot encrypt data outside of the connection between your device and the VPN server. VPN providers can see and modify your traffic the same way your ISP could. And there is no way to verify a VPN provider's "no logging" policies in any way.
+
+A VPN may still be useful to you in a variety of scenarios, such as:
+- Hiding your traffic from only your Internet Service Provider.
+- Hiding your downloads (such as torrents) from your ISP and anti-piracy organizations.
+- Bypassing Geo-Blocked content.
+
+Reference:  
+- https://gist.github.com/joepie91/5a9909939e6ce7d09e29
+- https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html
+- https://privacytools.io/providers/vpn/
+
+### Antivirus
+You do not need paid anti-viruses, nor is it recommended to pirate any paid anti-viruses. **Common sense is better than using an AV**. Use [ClamAV](https://www.clamav.net/) as an extra precaution. Install [PrivacyTools.io's Recommended Browser Add-ons](#add-ons) for additional protection while browsing on the internet.
+
+- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html#anti-virus-software)
+- [The Case Against Anti-Virus Software](https://wiki.ameliorated.info/doku.php?id=antivirus) - AME Wiki
+- [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
+
+### File Encryption
+
+- [PrivacyTools.io](https://privacytools.io/software/encryption-tools/)
+
 ### Office Suite
 * [OnlyOffice](https://www.onlyoffice.com/) - OnlyOffice, stylized as ONLYOFFICE, is a free software office suite developed by Ascensio System SIA, a company headquartered in Riga, Latvia.
 
@@ -221,63 +278,6 @@ Related:
   - [Lector](https://www.electronjs.org/apps/lector) - A simple PDF Reader built using Electron and PDF.js.
 
   - [NightPDF](https://github.com/libreloya/NightPDF) - Dark Mode PDF Reader built using Electron and PDF.js.
-
-### DNS
-- [Privacytools.io](https://privacytools.io/providers/dns/)
-- [Darkmatter404](https://darkmatter404.neocities.org/ProjectMariana/Configuration/dnscrypt-proxy.html)
-
-### Browser
-* [Firefox](https://firefox.com/) - Firefox is fast, reliable, open-source, and respects your privacy. Don't forget to adjust the settings according to our recommendations.
-  - [arkenfox user.js (formerly ghacks-user.js)](https://github.com/arkenfox/user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
-
-* [Ungoogled Chomium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency.
-  - Hardening Guide  
-  https://anonymousplanet.org/guide.html#ungoogled-chromium-1
-
-  - Installing Extensions  
-    Download the extension file manually, open chrome://extensions and drag to it. Or, extract the extension to a folder and switch on Developer mode in opera://extensions and use "Load unpacked extension".
-
-    - If you want to automate this process, you will need to “re-google” some of the Browser by allowing access to Chrome Extension Store. This can be done using this extension: https://github.com/NeverDecaf/chromium-web-store
-
-* [Tor Browser](https://www.torproject.org/) - Tor Browser is your choice if you need an extra layer of anonymity. It's a modified version of Firefox ESR, which comes with pre-installed privacy add-ons, encryption, and an advanced proxy.
-
-* #### Add-ons:
-
-  - [PrivacyTools.io](https://privacytools.io/browsers/#addons)
-
-Related:  
-https://unixsheikh.com/articles/choose-your-browser-carefully.html
-
-### VPN
-Free VPNs collect a lot of data and sell it to third party companies for their profit. Paid VPNs are better than Free VPNs in connection speed and security, but we can't guarantee that whether they log data or not. VPNs cannot encrypt data outside of the connection between your device and the VPN server. VPN providers can see and modify your traffic the same way your ISP could. And there is no way to verify a VPN provider's "no logging" policies in any way.
-
-A VPN may still be useful to you in a variety of scenarios, such as:
-- Hiding your traffic from only your Internet Service Provider.
-- Hiding your downloads (such as torrents) from your ISP and anti-piracy organizations.
-- Bypassing Geo-Blocked content.
-
-Reference:  
-- https://gist.github.com/joepie91/5a9909939e6ce7d09e29
-- https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html
-- https://privacytools.io/providers/vpn/
-
-### Antivirus
-You do not need paid anti-viruses, nor is it recommended to pirate any paid anti-viruses. **Common sense is better than using an AV**. Use [ClamAV](https://www.clamav.net/) as an extra precaution. Install [PrivacyTools.io's Recommended Browser Add-ons](#add-ons) for additional protection while browsing on the internet.
-
-- [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html#anti-virus-software)
-- [The Case Against Anti-Virus Software](https://wiki.ameliorated.info/doku.php?id=antivirus) - AME Wiki
-- [r/techsupport's guide on malware removal](https://www.reddit.com/r/techsupport/comments/33evdi/suggested_reading_official_malware_removal_guide/) - Reddit thread
-
-### File Encryption
-
-- [PrivacyTools.io](https://privacytools.io/software/encryption-tools/)
-
-### Firewall
-* [Simplewall](https://www.henrypp.org/product/simplewall)  
-Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
-
-* [Portmaster](https://safing.io/)  
-Portmaster is a free and open-source application that puts you back in charge over all your computer's network connections.
 
 ### Email
 - Email Providers - [PrivacyTools.io](https://privacytools.io/providers/email/)
