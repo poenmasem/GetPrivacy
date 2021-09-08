@@ -15,7 +15,10 @@
 - [Post-Installation](#post-installation)
   - [Activation](#activation)
   - [Drivers](#drivers)
-  - [Disk Encryption](#disk-encryption)
+  - [Hardware](#disk-encryption)
+    - [Disk Encryption](#disk-encryption)
+    - [Ultrasonic Cross-Device Tracking](#ultrasonic-cross---device-tracking)
+    - [Intel ME and AMD PSP](#intel-me-and-amd-psp)
   - [Softwares](#softwares)
     - [DNS](#dns)
     - [Browser](#browser)
@@ -176,12 +179,20 @@ Related:
 Related:  
 [AME - Getting Started](https://wiki.ameliorated.info/doku.php?id=getting_started)
 
-### Disk Encryption
-
+### Hardware
+#### Disk Encryption
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html#windows-host-os-encryption)
+
+#### Ultrasonic Cross-Device Tracking
+- [USCDT](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused/blob/main/pages/src/UCST.md)
+
+#### Intel ME and AMD PSP
+- [ME_PSP](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused/blob/main/pages/src/me_psp.md)
 
 ## Softwares
 ### DNS
+Encrypt your DNS traffic by following these links:
+
 - [Privacytools.io](https://privacytools.io/providers/dns/)
 - [Darkmatter404](https://darkmatter404.neocities.org/ProjectMariana/Configuration/dnscrypt-proxy.html)
 
@@ -208,6 +219,8 @@ Related:
 https://unixsheikh.com/articles/choose-your-browser-carefully.html
 
 ### Firewall
+Control incoming and outgoing network connections using an open-source and powerful firewall.
+
 * [Simplewall](https://www.henrypp.org/product/simplewall)  
 Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 
