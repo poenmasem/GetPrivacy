@@ -184,10 +184,10 @@ Related:
 - [The Hitchhiker's Guide to Online Anonymity](https://anonymousplanet.org/guide.html#windows-host-os-encryption)
 
 #### Ultrasonic Cross-Device Tracking
-- [USCDT](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused/blob/main/pages/src/UCST.md)
+- [USCDT](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused/blob/main/UCST.md)
 
 #### Intel ME and AMD PSP
-- [ME_PSP](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused/blob/main/pages/src/me_psp.md)
+- [ME_PSP](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused/blob/main/me_psp.md)
 
 ## Softwares
 ### DNS
