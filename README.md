@@ -17,7 +17,7 @@
   - [Drivers](#drivers)
   - [Hardware](#disk-encryption)
     - [Disk Encryption](#disk-encryption)
-    - [Ultrasonic Cross-Device Tracking](#ultrasonic-cross---device-tracking)
+    - [Ultrasonic Cross-Device Tracking](#ultrasonic-cross-device-tracking)
     - [Intel ME and AMD PSP](#intel-me-and-amd-psp)
   - [Softwares](#softwares)
     - [DNS](#dns)
