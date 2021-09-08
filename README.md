@@ -260,7 +260,7 @@ You do not need paid anti-viruses, nor is it recommended to pirate any paid anti
 
 * [Calligra](https://calligra.org/) - Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases.
 
-- [MS Office](https://www.office.com/) **(Closed Source)** - **(If you are forced to use MS Office, follow this(This process will disable telemetry as much as possible))**
+- [MS Office](https://www.office.com/) **(Closed Source)** - **(If it is compulsory for you to use MS Office, follow this(This process will disable telemetry as much as possible))**
   - Download and install MS Office (Account sign-in is not necessary after installation)
     - [TechBench](https://tb.rg-adguard.net/public.php)
     - [Office Tool Plus](https://github.com/YerongAI/Office-Tool)  
