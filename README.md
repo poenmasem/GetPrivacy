@@ -32,6 +32,7 @@
     - [Email](#email)
     - [Archiver](#archiver)
     - [Password Manager](#password-manager)
+    - [Social Media](#social-media)
     - [Graphics](#graphics)
     - [Media Player](#media-player)
     - [Video](#video)
