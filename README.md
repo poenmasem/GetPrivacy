@@ -331,6 +331,10 @@ You do not need paid anti-viruses, nor is it recommended to pirate any paid anti
 
 - Discord Alternatives: [Privacy Guides](https://www.privacyguides.org/software/real-time-communication/#teamchat)
 
+
+Related:
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy#social-networks-and-platforms) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+
 ### Graphics
 - [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
 
