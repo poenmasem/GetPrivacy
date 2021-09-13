@@ -118,7 +118,10 @@ Related:
   - Support: [AME Telegram Group](https://t.me/joinchat/CR-xFBGQKVt7HPZKgZfbxg)
 
 - Windows 10 LTSC (Tweaking Tools)
+    - [FreeTimeTech - Windows 10 Debloater Tool | Debloat GUI](https://freetimetech.com/windows-10-clean-up-debloat-tool-by-ftt/)
+
     - [Windows 10 Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script) - A powerful PowerShell module for fine-tuning and tweaking Windows 10.
+      - [SophiApp](https://github.com/Sophia-Community/SophiApp)
 
     - [O&O ShutUp10](https://www.oo-software.com/en/shutup10) (Powerful but Closed source) - O&O ShutUp10 provides users with a simple means of customizing the privacy options in Windows 10 and thus decide which data collection options will stay enabled and which should be blocked.
 
@@ -193,7 +196,7 @@ Related:
 ### DNS
 Encrypt your DNS traffic by following these links:
 
-- [Privacytools.io](https://privacytools.io/providers/dns/)
+- [Privacy Guides](https://www.privacyguides.org/providers/dns/)
 - [Darkmatter404](https://darkmatter404.neocities.org/ProjectMariana/Configuration/dnscrypt-proxy.html)
 
 ### Browser
@@ -201,7 +204,8 @@ Encrypt your DNS traffic by following these links:
   - [arkenfox user.js (formerly ghacks-user.js)](https://github.com/arkenfox/user.js) - An ongoing comprehensive user.js template for configuring and hardening Firefox privacy, security and anti-fingerprinting.
   - [Hardening Guide](https://ebin.city/~werwolf/posts/firefox-hardening-guide/)
 
-* [Ungoogled Chomium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency.
+* [Ungoogled Chomium](https://github.com/Eloston/ungoogled-chromium) - A lightweight approach to removing Google web service dependency. ((From privacyguides.org) However, we do not strongly recommend the use of Ungoogled Chromium for most users at this time, because of a lack of official builds and updates from the developer. We strongly believe that auto-updating apps are key for maintaining security, lest you browse the web with outdated builds of your browser which may be susceptible to any number of live exploits.)
+
   - [Hardening Guide](https://anonymousplanet.org/guide.html#ungoogled-chromium-1)
 
   - Installing Extensions  
@@ -209,11 +213,13 @@ Encrypt your DNS traffic by following these links:
 
     - If you want to automate this process, you will need to “re-google” some of the Browser by allowing access to Chrome Extension Store. This can be done using this extension: https://github.com/NeverDecaf/chromium-web-store
 
+  - Note: https://qua3k.github.io/ungoogled/
+
 * [Tor Browser](https://www.torproject.org/) - Tor Browser is your choice if you need an extra layer of anonymity. It's a modified version of Firefox ESR, which comes with pre-installed privacy add-ons, encryption, and an advanced proxy.
 
 * #### Add-ons:
 
-  - [PrivacyTools.io](https://privacytools.io/browsers/#addons)
+  - [Privacy Guides](https://www.privacyguides.org/browsers/#addons)
 
 Related:  
 https://unixsheikh.com/articles/choose-your-browser-carefully.html
@@ -238,7 +244,7 @@ A VPN may still be useful to you in a variety of scenarios, such as:
 Reference:  
 - https://gist.github.com/joepie91/5a9909939e6ce7d09e29
 - https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html
-- https://privacytools.io/providers/vpn/
+- https://www.privacyguides.org/providers/vpn/
 
 ### Antivirus
 You do not need paid anti-viruses, nor is it recommended to pirate any paid anti-viruses. **Common sense is better than using an AV**. Use [ClamAV](https://www.clamav.net/) as an extra precaution. Install [PrivacyTools.io's Recommended Browser Add-ons](#add-ons) for additional protection while browsing on the internet.
@@ -249,7 +255,7 @@ You do not need paid anti-viruses, nor is it recommended to pirate any paid anti
 
 ### File Encryption
 
-- [PrivacyTools.io](https://privacytools.io/software/encryption-tools/)
+- [Privacy Guides](https://www.privacyguides.org/software/productivity/#encrypt)
 
 ### Office Suite
 * [OnlyOffice](https://www.onlyoffice.com/) - OnlyOffice, stylized as ONLYOFFICE, is a free software office suite developed by Ascensio System SIA, a company headquartered in Riga, Latvia.
@@ -275,6 +281,8 @@ You do not need paid anti-viruses, nor is it recommended to pirate any paid anti
       - Office 2013
         - [Turning off Telemetry reg file](https://web.archive.org/web/20201127230546/https://www.sharepointevolved.com/2015/08/31/turning-off-telemetry-for-office-2013/)
 
+  -  [oletools](https://github.com/decalage2/oletools/) - oletools - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging.
+
 * #### PDF:
   - [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader) - Sumatra PDF is a free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) reader for Windows.
 
@@ -293,13 +301,21 @@ You do not need paid anti-viruses, nor is it recommended to pirate any paid anti
   - [NightPDF](https://github.com/libreloya/NightPDF) - Dark Mode PDF Reader built using Electron and PDF.js.
 
 ### Email
-- Email Providers - [PrivacyTools.io](https://privacytools.io/providers/email/)
-  - [NOTE](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused/blob/main/pages/src/Truth.png)
-  - [Cybertoolbank](https://cybertoolbank.cc/emails.html)
-  - [OTHER MESSAGING SYSTEMS](https://www.reddit.com/r/emailprivacy/wiki/index#wiki_other_messaging_systems) 
-  - [Encrypted Instant Messengers](https://privacytools.io/software/real-time-communication/)
+- Email Providers - [Privacy Guides](https://www.privacyguides.org/providers/email/)
 
-- Email Clients - [PrivacyTools.io](https://privacytools.io/software/email/)
+  - [Email Alias](https://simplelogin.io/)
+
+  - [Note 1](https://qua3k.github.io/security/email/)
+
+  - [Note 2](https://github.com/STOPBACK/Setup-Windows-Privacy-Focused/blob/main/pages/src/Truth.png)
+
+  - [Cybertoolbank](https://cybertoolbank.cc/emails.html)
+
+  - [OTHER MESSAGING SYSTEMS](https://www.reddit.com/r/emailprivacy/wiki/index#wiki_other_messaging_systems) 
+
+  - [Encrypted Instant Messengers](https://www.privacyguides.org/software/real-time-communication/)
+
+- Email Clients - [Privacy Guides](https://www.privacyguides.org/software/email/)
 
 ### Archiver
 - [7zip](https://www.7-zip.org/) - 7-Zip is a utility program to help you extract compressed files and create your own compressed files in several different formats.
@@ -307,7 +323,12 @@ You do not need paid anti-viruses, nor is it recommended to pirate any paid anti
 - [PeaZip](https://peazip.github.io/) - PeaZip is a free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager.
 
 ### Password Manager
-- **[PrivacyTools.io](https://privacytools.io/software/passwords/)**
+- **[Privacy Guides](https://www.privacyguides.org/software/passwords/)**
+
+### Social Media
+- [Privacy Guides](https://www.privacyguides.org/providers/social-networks/) - Decentralized Social Networks
+
+- Discord Alternatives: [Privacy Guides](https://www.privacyguides.org/software/real-time-communication/#teamchat)
 
 ### Graphics
 - [ImageGlass](https://imageglass.org/) - ImageGlass is a lightweight software application whose purpose is to help you view images in a clean and intuitive working environment.
@@ -320,6 +341,8 @@ You do not need paid anti-viruses, nor is it recommended to pirate any paid anti
   - [GraphicsMagick](http://www.graphicsmagick.org/) - GraphicsMagick(fork of ImageMagick) is a free open source, modern and powerful software suite for processing images.
 
 - [Darktable](https://www.darktable.org/) - Darktable is a free and open-source photography application software and raw developer.
+
+- [Caesium Image Compressor](https://saerasoft.com/caesium) - Caesium Image Compressor is an open source image compressor, which can reduce the size of your pictures by up to 90% without losing any image quality.
 
 Related:
 - [Awesome Privacy](https://github.com/pluja/awesome-privacy#photo-editing-and-management) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -406,6 +429,8 @@ Related:
 
 - [Ciano](https://github.com/robertsanseries/ciano) - A multimedia file converter focused on simplicity. Convert videos, music and pictures with the best possible experience.
 
+- [YOGA Image Optimizer](https://github.com/flozz/yoga-image-optimizer) - A graphical tool to convert and optimize JPEG, PNG and WebP images (based on YOGA)
+
 ### Drive Tools
 - [Macrium Reflect Free](https://www.macrium.com/reflectfree) (Closed Source) - Macrium Reflect Free allows you to back up your entire computer and schedule backups.
 
@@ -434,6 +459,8 @@ Related:
   - [Additional Scripts](https://github.com/builtbybel/CleanmgrPlus/blob/master/scripts/scripts.md)
 
 - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems.
+
+- [FreeTimeTech - Network Fix and Optimizer Utility](https://freetimetech.com/network-and-optimizer-utility-by-ftt/)
 
 ### Sharing
 - [KDE Connect](https://kdeconnect.kde.org/) - KDE Connect is a multi platform application developed by KDE, which facilitates communications and data transfer between devices wirelessly over local network.
@@ -465,12 +492,14 @@ Related:
 
 - [Android Tool](https://github.com/fast-geek/Android-Tool) - Android Tool is a powerful and beautiful program, created to make popular adb and fastboot commands easier to use. A dark theme, intuitive interface and other features.
 
+- [pyWhat](https://github.com/bee-san/pyWhat) - pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is!
+
 ### To Do - AME
 
 - [After AME Windows 10](https://t.me/Windows10AMEPowerUser) - Telegram Channel
 
 ### For other Softwares
-- [PrivacyTools](https://www.privacytools.io/) - PrivacyTools (also known as privacytools.io) provides knowledge and tools to protect your privacy against global mass surveillance' and is a well-known website in the Education & Reference category.
+- [Privacy Guides](https://www.privacyguides.org/) - Privacy Guides (formerly known as privacytools.io) provides knowledge and tools to protect your privacy against global mass surveillance' and is a well-known website in the Education & Reference category.
 
 - [Privacy Tools List](https://privacytoolslist.com/) - Top privacy tools, apps and services.
 
@@ -503,9 +532,14 @@ Related:
 
 - [Fake "privacy" tools not worth using](https://www.reddit.com/r/privacytoolsIO/comments/cx8d8v/fake_privacy_tools_not_worth_using/)
 
-- [Dark Matter 404](https://darkmatter404.neocities.org/ProjectMariana/index.html)
+- [Dark Matter 404](https://darkmatter404.neocities.org/Project-Mariana/index.html)
 
 - [Leak Test Tools List](https://privacytoolslist.com/#leak-test-tools)
+
+- [Terms of Service; Didn’t Read: Be Informed](https://tosdr.org/) - Terms of Service; Didn't Read is a project started back in 2012 with the main goal to make Terms of Service and Privacy Policies more clear by summarizing the keypoints in them.
+  - [Introduction](https://www.reddit.com/r/privacy/comments/kogsuw/we_are_terms_of_service_didnt_read_ask_us_anything/)
+
+- [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html)
 
 # 🎮 Gaming Tweaks
 
@@ -518,6 +552,8 @@ Related:
 - [Calypto's Latency Guide](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4/edit)
 
 - [BDO Ultimate Performance Guide](https://docs.google.com/document/d/1cyLaDiPL_B6nOZw_qPE_wOGuoeRT-qddTjevTFoFBkg/edit)
+
+- [FreeTimeTech - Gaming Debloater](https://freetimetech.com/gaming-debloater/)
 
 ## Issues
 Still finding a better & an user-friendly script to strip-down Windows 8 ISO File. But as I said, Windows 10 AME is a better choice than stripping-down(using **any** method) and using Windows 8. (Note: Windows 7 & 8 is not safe to use anymore. But they can be used if you do things in it safely. Please be careful. Mainly Avoid **using cracked programs, unsafe mails**, unsafe websites(use these [add-ons](#add-ons) that secure you from many nasty things)), and using Internet Explorer. But in future, many programs will stop supporting Win 7 & 8.)
