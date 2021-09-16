@@ -10,30 +10,26 @@
   cache-control: public
   cache-control: max-age=2592000
 
-/pages/*.css
-  cache-control: public
-  cache-control: max-age=604800
-
 /404/*.css
   cache-control: public
   cache-control: max-age=604800
-  
+
 /404/*.webp
   cache-control: public
   cache-control: max-age=2592000
-  
-/pages/src/*.webp
+
+/en/src/*.webp
   cache-control: public
   cache-control: max-age=2592000
-  
-/pages/src/*.png
+
+/en/src/*.png
   cache-control: public
   cache-control: max-age=2592000
-  
-/pages/src/*.jpeg
+
+/en/src/*.jpeg
   cache-control: public
   cache-control: max-age=2592000
-  
-/pages/src/*.jpg
+
+/en/src/*.jpg
   cache-control: public
   cache-control: max-age=2592000
