@@ -1,7 +1,5 @@
 # Setup Windows Privacy Focused 👨‍💻🔐
-```
-Note: The Project is Currently Developing
-```
+```Note: The Project is Currently Developing```
 - A Complete Guide to setup Windows with focus on Privacy and Security.
 
 - Most of the softwares listed here are [FOSS](https://itsfoss.com/what-is-foss/).
