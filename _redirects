@@ -1,2 +1,4 @@
 https://getprivacy.netlify.app/* https://getprivacy.cf/:splat 301!
-/*.md /404 404!
+/README.md /404 404!
+/LICENSE /404 404!
+/CNAME /404 404!
