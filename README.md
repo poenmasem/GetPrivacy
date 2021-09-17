@@ -1,3 +1,4 @@
+![Netlify Status](https://api.netlify.com/api/v1/badges/1007e663-d0ce-4fe0-a077-7341f43294cb/deploy-status)
 # Setup Windows Privacy Focused 👨‍💻🔐
 ```
 Note: The Project is Currently Developing
