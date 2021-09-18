@@ -6,3 +6,4 @@ https://getprivacy.netlify.app/* https://getprivacy.cf/:splat 301!
 /CNAME /404 404!
 /cname /404 404!
 /en / 200!
+/index.html / 301!
