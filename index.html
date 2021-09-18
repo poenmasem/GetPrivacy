@@ -18,7 +18,13 @@
   <div id="secur" class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
   <strong>Warning!</strong> This is not Actual Website. This Page Might be modified by an External Program.</div>
-  <script type="text/javascript" src="js/secure.js"></script>
+  <script>
+  if (url_result == 2) {
+    document.getElementById("secur").style.visibility = "none";
+  } else {
+    document.getElementById("secur").style.visibility = "";
+  }
+  </script>
 
   <main class="site-wrapper">
   <div class="pt-table desktop-768">
