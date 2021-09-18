@@ -23,6 +23,13 @@ main {
   <div id="secur" class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
   <strong>Warning!</strong> This is not Actual Website. This Page Might be modified by an External Program.</div>
+  <script>
+  if (url_result == 2) {
+    document.getElementById("secur").style.display = "none";
+  } else {
+    document.getElementById("secur").style.visibility = "";
+  }
+  </script>
 
   <header>
     <h2>Sitemap</h2>
