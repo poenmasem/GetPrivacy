@@ -69,6 +69,10 @@ footer {
     margin-left: 8%;
     margin-right: 8%;
 }
+li {
+    margin-left: 8%;
+    margin-right: 8%;
+}
 .code, code {
     font-family: Consolas, "courier new";
     color: #dc143c;
