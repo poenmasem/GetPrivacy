@@ -17,6 +17,8 @@ body {
     background-image: url(background/pages.webp);
     font-family: quicksand;
     color: #fff;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: kollektif;
@@ -56,18 +58,6 @@ a:visited {
 }
 .align-center {
     text-align: center;
-}
-header {
-    margin-left: 8%;
-    margin-right: 8%;
-}
-main {
-    margin-left: 8%;
-    margin-right: 8%;
-}
-footer {
-    margin-left: 8%;
-    margin-right: 8%;
 }
 .code, code {
     font-family: Consolas, "courier new";
