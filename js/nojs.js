@@ -1,7 +1,12 @@
 url = window.location.href;
-url = url.split('?ref=')[1];
+url = url.split('?ref=/')[1];
 if ( url == "undefined" ) {
-  window.location.replace("https://getprivacy.cf");
+  url = "https://getprivacy.cf"
+  window.location.replace(url);
 } else {
-  window.location.replace("https://getprivacy.cf/" + url);
+  url = "https://getprivacy.cf/" + url
+  if ( url == "https://getprivacy.cf/undefined" ) {
+    url = "https://getprivacy.cf"
+  }
+  window.location.replace(url);
 }
