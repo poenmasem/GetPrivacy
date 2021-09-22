@@ -8,6 +8,7 @@
   <script type="text/javascript" src="../js/nojs.js"></script>
 <p>
 Please Enable Javascript to Continue visiting the page.
+  <?php echo $_SERVER['HTTP_REFERER']; ?>
 <br>
 Don't worry, We Just Track users Browsing History, But we never save it to our Server.<br>
 </p>
