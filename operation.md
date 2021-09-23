@@ -7,7 +7,6 @@ Current Operation 1: **/check.html**
 - [ ] Check User Using VPN or not
 - [ ] Check User Using Tor or not
 - [ ] Detect ISP name
-- [ ] detect user installed extension
 
 
 Current Operation 2: None
